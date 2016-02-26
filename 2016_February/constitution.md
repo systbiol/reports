@@ -160,7 +160,22 @@ The government and operation of the Society shall be vested in a Council.
 
 ### Section 2. Membership
 
-The Council shall consist of the President, the President-Elect, the most immediate living Past-President, the Executive Vice President, Treasurer, Program Director, Awards Director, __Communications Director,__ Editor of the Society's principal journal, ~~and 15 elected Councilors,~~ __and 18 elected Councilors, 3 of whom must be graduate students at the time they were elected.__ Each elected Councilor shall serve for three years taking office at the beginning of the calendar year following the election. ~~Five~~ __Six__ Councilors __(one being a Graduate Student Councilor)__ shall be elected each year to provide three classes serving staggered terms on the Council. Any vacancy among elected Councilors shall be filled by the normal procedure for electing Councilors at the next annual election. An elected Councilor shall not be eligible for reelection for one year after completing a full term of service. Elected Councilors must be members of the Society. Graduate Students who have successfully passed the qualifying exam are eligible to be nominated. __Elected Graduate Student Councilors are able to continue their term into a postdoctoral or faculty position.__
+The Council shall consist of the President, the President-Elect, the most
+immediate living Past-President, the Executive Vice President, Treasurer,
+Program Director, Awards Director, __Communications Director,__ Editor of the
+Society's principal journal, ~~and 15 elected Councilors,~~ __and 18 elected
+Councilors, 3 of whom must be graduate students at the time they were elected.__
+Each elected Councilor shall serve for three years taking office at the
+beginning of the calendar year following the election. ~~Five~~ __Six__
+Councilors __(one being a Graduate Student Councilor)__ shall be elected each
+year to provide three classes serving staggered terms on the Council. Any
+vacancy among elected Councilors shall be filled by the normal procedure for
+electing Councilors at the next annual election. An elected Councilor shall not
+be eligible for reelection for one year after completing a full term of service.
+Elected Councilors must be members of the Society. Graduate Students who have
+successfully passed the qualifying exam are eligible to be nominated. __Elected
+Graduate Student Councilors are able to continue their term after graduating.__
+~~into a postdoctoral or faculty position.~~
 
 ### Section 3. Chairmanship
 
@@ -524,6 +539,8 @@ Awards Director. The committee should include at least one person who served on
 a previous year's Committee.
 
 ### Bylaw 9. Presidents' Award Committee
+
+> This bylaw was voted in at the 2015 council meeting in Brazil
 
 #### Section 1. Function
 
