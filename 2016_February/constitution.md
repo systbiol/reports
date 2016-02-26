@@ -139,7 +139,7 @@ of the Society until the next annual election.
 ### Section 5. Other Officers
 
 The Executive Vice President, Treasurer, Program Director, Awards Director,
-<span style="color:blue">Communications Director</span>, and Editor are elected by the council and each shall normally serve for a
+__Communications Director__, and Editor are elected by the council and each shall normally serve for a
 three-year term, and thereafter may be reelected for successive terms of one
 year. They shall discharge the customary duties of their respective offices,
 under the direction of the President and be responsible to the Council. They
@@ -160,7 +160,7 @@ The government and operation of the Society shall be vested in a Council.
 
 ### Section 2. Membership
 
-The Council shall consist of the President, the President-Elect, the most immediate living Past-President, the Executive Vice President, Treasurer, Program Director, Awards Director, |+Communications Director,+| Editor of the Society’s principal journal, |- and 15 elected Councilors,-| |+and 18 elected Councilors, 3 of whom must be graduate students at the time they were elected.+| Each elected Councilor shall serve for three years taking office at the beginning of the calendar year following the election. |-Five-| |+Six+| Councilors |+(one being a Graduate Student Councilor)+| shall be elected each year to provide three classes serving staggered terms on the Council. Any vacancy among elected Councilors shall be filled by the normal procedure for electing Councilors at the next annual election. An elected Councilor shall not be eligible for reelection for one year after completing a full term of service. Elected Councilors must be members of the Society. Graduate Students who have successfully passed the qualifying exam are eligible to be nominated. |+Elected Graduate Student Councilors are able to continue their term into a postdoctoral or faculty position.+|
+The Council shall consist of the President, the President-Elect, the most immediate living Past-President, the Executive Vice President, Treasurer, Program Director, Awards Director, __Communications Director,__ Editor of the Society’s principal journal, ~~and 15 elected Councilors,~~ __and 18 elected Councilors, 3 of whom must be graduate students at the time they were elected.__ Each elected Councilor shall serve for three years taking office at the beginning of the calendar year following the election. ~~Five~~ __Six__ Councilors __(one being a Graduate Student Councilor)__ shall be elected each year to provide three classes serving staggered terms on the Council. Any vacancy among elected Councilors shall be filled by the normal procedure for electing Councilors at the next annual election. An elected Councilor shall not be eligible for reelection for one year after completing a full term of service. Elected Councilors must be members of the Society. Graduate Students who have successfully passed the qualifying exam are eligible to be nominated. __Elected Graduate Student Councilors are able to continue their term into a postdoctoral or faculty position.__
 
 ### Section 3. Chairmanship
 
@@ -205,7 +205,7 @@ ARTICLE VII. COMMITTEES
 
 ### Section 1.
 
-|* needs to be re-evaluated *|
+> needs to be re-evaluated
 The following Committees shall be appointed by the President pursuant to the
 conditions provided elsewhere in this Constitution and/or in the by-laws: Awards
 in Systematic Biology, Initiatives and Long-range Planning, Nominating,
@@ -218,7 +218,7 @@ ARTICLE VIII. NOMINATIONS AND ELECTIONS
 
 ### Section 1. Nominations
 
-|* timing here is not what has been used in practice *|
+> timing here is not what has been used in practice
 All officers (except the Editor and Trustees) and all Councilors shall be
 nominated by a Nominating Committee comprising three members. Each President
 just before the time of the annual meeting will nominate one SSB member, who is
@@ -233,7 +233,7 @@ Elections must be held at least two months prior to the annual meeting. The
 Committee shall secure two candidates or more for each position to be elected by
 the general membership (President-Elect, Councilors, and if necessary
 President), and one or more candidates for each position to be elected by the
-Council (Executive Vice President, Treasurer, Awards Director, |+Communications Director,+| and Program
+Council (Executive Vice President, Treasurer, Awards Director, __Communications Director,__ and Program
 Director). Five members of the Society may nominate a candidate for
 President-Elect (and if necessary, President) or Councilor (see Bylaw 3). Any
 Councilor may nominate a candidate for Executive Vice President, Treasurer,
@@ -251,7 +251,7 @@ positions on the Council to be filled shall be elected. Any vacated positions of
 uncompleted terms on the Council shall be filled by Council nominees receiving
 the most number of votes in the previous election.
 
-The Executive Vice President, Treasurer, Awards Director, |+Communications Director, +| Trustees and Program
+The Executive Vice President, Treasurer, Awards Director, __Communications Director, __ Trustees and Program
 Director are elected by a mail or electronic vote of the Council. The candidate
 for each must receive a majority of affirmative ballots to be elected.
 
@@ -334,7 +334,7 @@ members in good standing voting in a mail or electronic ballot.
 ### Section 2. Proposals and Consideration
 
 An amendment may be proposed by any member of the Society by a letter addressed
-to the Executive Vice President |-at least two months prior to an Annual Meeting-|.
+to the Executive Vice President ~~at least two months prior to an Annual Meeting~~.
 Members of the Council may propose amendments at any Council Meeting. Any
 proposed amendment to the Constitution must be approved by a two-thirds majority
 vote of the Council at a meeting before it is submitted to the Society
@@ -408,7 +408,7 @@ Annual Meeting.
 ### Bylaw 4. Recommendations by Councilors
 
 Recommendations for the offices of Executive Vice President, Treasurer, Program
-Director, Awards Director, |+Communications Director+| and Editor Elect may be made by Councilors. Such
+Director, Awards Director, __Communications Director__ and Editor Elect may be made by Councilors. Such
 recommendations shall consist of a brief statement of the qualifications of the
 nominee and evidence that the nominee is willing to serve, and shall be sent to
 the Chairperson of the Search Committee at least two months before the committee
@@ -431,7 +431,7 @@ However, objection by three Councilors shall require deferment of action to the
 next regular Council meeting.
 
 A meeting of the executive council (President, Past President, President Elect,
-Executive Vice President, Program Director, Awards Director, |+Communications Director,+| Editor, Editor
+Executive Vice President, Program Director, Awards Director, __Communications Director,__ Editor, Editor
 Elect, one Trustee, and relevant invitees) shall be held early in the New Year
 to set the agenda for the annual meeting and to discuss goals, progress, and
 evaluate finances.
@@ -533,7 +533,7 @@ The Committee shall consist of the President (chair), President-Elect, and Past-
 
 ### Bylaw 10. Initiatives and Long-Range Planning Committee
 
-|* is this committee still functioning? *|
+> is this committee still functioning?
 
 #### Section 1. Function
 
@@ -550,7 +550,7 @@ serve a five-year term and may be re-appointed.
 
 ### Bylaw 11. Publications Committee
 
-|* is this committee still functioning? *|
+> is this committee still functioning?
 
 #### Section 1. Function
 
@@ -569,7 +569,7 @@ the Editor, the most recent past-Editor, the Managing Editor, and the Treasurer.
 
 ### Bylaw 12. Coordinating Committee
 
-|* is this committee still functioning? *|
+> is this committee still functioning?
 
 #### Section 1. Function
 
