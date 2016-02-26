@@ -39,7 +39,7 @@ the Council.
 ### Section 4. Rights of Membership
 
 Members shall be entitled to vote in all general Society elections, to receive
-the Society’s principal journal, to hold office in the Society, and to
+the Society's principal journal, to hold office in the Society, and to
 participate in other usual membership functions.
 
 ### Section 5. Suspension and Reinstatement
@@ -75,14 +75,14 @@ the rights of membership for life but are not liable for annual dues.
 Any person may become a Sustaining Member of the Society upon payment of twice
 the amount of the annual dues as set by the Society. Sustaining Members shall be
 entitled to vote, to participate in the usual membership functions, and to
-receive the Society’s publications.
+receive the Society's publications.
 
 ### Section 10. Family Membership
 
 Related members (e.g. spouses) may elect family membership for which the first
-member pays full dues and receives the Society’s principal publication, and the
+member pays full dues and receives the Society's principal publication, and the
 subsequent members pay a reduced rate determined by the Council and do not
-receive the Society’s principal publication. All Family Members shall be
+receive the Society's principal publication. All Family Members shall be
 entitled to all rights of membership.
 
 ### Section 11. Student Members
@@ -160,7 +160,7 @@ The government and operation of the Society shall be vested in a Council.
 
 ### Section 2. Membership
 
-The Council shall consist of the President, the President-Elect, the most immediate living Past-President, the Executive Vice President, Treasurer, Program Director, Awards Director, __Communications Director,__ Editor of the Society’s principal journal, ~~and 15 elected Councilors,~~ __and 18 elected Councilors, 3 of whom must be graduate students at the time they were elected.__ Each elected Councilor shall serve for three years taking office at the beginning of the calendar year following the election. ~~Five~~ __Six__ Councilors __(one being a Graduate Student Councilor)__ shall be elected each year to provide three classes serving staggered terms on the Council. Any vacancy among elected Councilors shall be filled by the normal procedure for electing Councilors at the next annual election. An elected Councilor shall not be eligible for reelection for one year after completing a full term of service. Elected Councilors must be members of the Society. Graduate Students who have successfully passed the qualifying exam are eligible to be nominated. __Elected Graduate Student Councilors are able to continue their term into a postdoctoral or faculty position.__
+The Council shall consist of the President, the President-Elect, the most immediate living Past-President, the Executive Vice President, Treasurer, Program Director, Awards Director, __Communications Director,__ Editor of the Society's principal journal, ~~and 15 elected Councilors,~~ __and 18 elected Councilors, 3 of whom must be graduate students at the time they were elected.__ Each elected Councilor shall serve for three years taking office at the beginning of the calendar year following the election. ~~Five~~ __Six__ Councilors __(one being a Graduate Student Councilor)__ shall be elected each year to provide three classes serving staggered terms on the Council. Any vacancy among elected Councilors shall be filled by the normal procedure for electing Councilors at the next annual election. An elected Councilor shall not be eligible for reelection for one year after completing a full term of service. Elected Councilors must be members of the Society. Graduate Students who have successfully passed the qualifying exam are eligible to be nominated. __Elected Graduate Student Councilors are able to continue their term into a postdoctoral or faculty position.__
 
 ### Section 3. Chairmanship
 
@@ -177,10 +177,10 @@ as otherwise provided by this Constitution and Bylaws. In the execution of its
 duties, it may: (1) acquire, hold, and dispose of, either in its name or in the
 name of its nominee, any property or other assets suited to further the
 interests of the Society; (2) execute contracts and solicit and receive grants
-in support of the Society’s activities; (3) make, or cause to be made, all
+in support of the Society's activities; (3) make, or cause to be made, all
 necessary arrangement for the meetings of the Society; and (4) exercise such
 other powers as required by this Constitution and its Bylaws and as required or
-desirable for the conduct of the Society’s affairs.
+desirable for the conduct of the Society's affairs.
 
 ### Section 5. Duties
 
@@ -191,7 +191,7 @@ membership.
 ### Section 6. Prohibitions
 
 The Council shall not obligate the Society beyond the actual content of the
-Treasury, and shall not do anything that will abrogate the Society’s status as a
+Treasury, and shall not do anything that will abrogate the Society's status as a
 non-profit, scientific organization.
 
 ARTICLE VI. MEETINGS
@@ -273,7 +273,7 @@ A Search Committee consisting of the President-Elect, serving as Chairperson,
 the President, and the most immediate Past-President shall find candidates or a
 single candidate for the position of Editor. Candidates may be recommended by
 the Editor or any Council member. The nomination process shall be initiated no
-later than the Annual Meeting of the first year of the current Editor’s tenure
+later than the Annual Meeting of the first year of the current Editor's tenure
 and shall be completed four months prior to the Annual Meeting at which the new
 Editor is elected. The report of the Search Committee for Editor shall be mailed
 to Councilors three months prior to the Annual Meeting. Election of the Editor
@@ -392,7 +392,7 @@ The Treasurer shall prepare and submit to the Council at the Annual Meeting an
 annual report and a budget for this coming fiscal year that shall be approved by
 the Council.
 
-The Society’s fiscal year shall be the calendar year unless otherwise designated
+The Society's fiscal year shall be the calendar year unless otherwise designated
 by the Council.
 
 ### Bylaw 3. Nominations by Members
@@ -448,7 +448,7 @@ Council or in mail votes.
 A Board of three Trustees, nominated by the President and elected by the
 Council, shall hold all of the funded property of the Society in trust with
 power to sell and to reinvest according to their judgment. Trustees shall be
-bonded at the Society’s expense in an amount specified by the Council.
+bonded at the Society's expense in an amount specified by the Council.
 
 #### Section 2. Membership
 
@@ -463,7 +463,7 @@ Transactions involving investments require approval by a majority of the
 Committee. It is the duty of each Trustee to protect and manage the Reserve Fund
 (Described in Bylaw 7) of the Society in a manner that seeks to obtain optimal
 performance in a diversified portfolio of stocks, bonds, mutual funds, and cash
-instruments. It is the Trustee’s responsibility to try to the best of his or her
+instruments. It is the Trustee's responsibility to try to the best of his or her
 ability to perform this duty in order to increase the value of the Reserve Fund
 and to provide revenue as requested by the Council for support of programs and
 publications that enhance the science of systematics and the training of
@@ -479,7 +479,7 @@ annual basis.
 #### Section 1. The funds and properties of the Society under the control of the
 Trustees shall be designated collectively as the reserve fund. A part of the
 reserve fund may, with the approval of the Council, be returned annually to the
-Executive Vice President and Treasurer for the conduct of the Society’s business
+Executive Vice President and Treasurer for the conduct of the Society's business
 including student awards.
 
 #### Section 2. All moneys received from Life Members and Patrons in consideration of
@@ -521,13 +521,13 @@ The Committee shall consist of at least three members: the Awards Director who
 assumes responsibility as committee chair, appointed for a three-year term as
 described above, and at least two additional members appointed annually by the
 Awards Director. The committee should include at least one person who served on
-a previous year’s Committee.
+a previous year's Committee.
 
-### Bylaw 9. Presidents’ Award Committee
+### Bylaw 9. Presidents' Award Committee
 
 #### Section 1. Function
 
-The Committee shall select the winner of the Presidents’ Award For Lifetime Achievement. The Presidents’ Award is given at intervals of at least 3 years to a person (or persons) notable for their past service to the Society.
+The Committee shall select the winner of the Presidents' Award For Lifetime Achievement. The Presidents' Award is given at intervals of at least 3 years to a person (or persons) notable for their past service to the Society.
 
 #### Section 2. Membership
 
@@ -556,9 +556,9 @@ serve a five-year term and may be re-appointed.
 
 #### Section 1. Function
 
-The Committee shall identify desirable policies for the Society’s publications,
+The Committee shall identify desirable policies for the Society's publications,
 act for the Society in negotiating printing, publishing, and other contracts,
-and provide fiscal review of the Society’s publication management. The Committee
+and provide fiscal review of the Society's publication management. The Committee
 shall also work with the publisher or printer to promote and increase
 membership. The Editor, Editor Elect, and Managing Editor shall not be involved
 in contract negotiations with the publisher in order to maintain amiable
@@ -609,7 +609,7 @@ shall consist of contributions from members, proceeds from sale of back issues
 of Society publications, and miscellaneous gifts. The annual earnings from this
 Fund, including interest, dividends, and gains from the sale of stock, shall be
 used in the general operations of the Society, including publication of the
-Society’s journal. The principal of the Fund may be used for the same purposes
+Society's journal. The principal of the Fund may be used for the same purposes
 if authorized by a majority vote, which may be conducted by mail or electronic
 mail, of all voting members of the Council.
 
@@ -620,9 +620,9 @@ addressed to the Secretary at least two months prior to an Annual Meeting.
 Members of the Council may propose amendments at any Council meeting. Any
 proposed amendment to the Bylaws must be approved by a simple majority vote of
 the Council at a meeting or by mail or electronic mail ballot before it is
-submitted to the Society’s membership for vote.
+submitted to the Society's membership for vote.
 
-The Bylaws can be amended by a two-thirds majority of the Society’s members
+The Bylaws can be amended by a two-thirds majority of the Society's members
 voting in a mail ballot or, in an emergency, by a two-thirds majority of members
 voting at an Annual Meeting. If approved by the Society membership, amendments
 to the Bylaws take effect at the end of the Annual Meeting following the vote.
@@ -635,6 +635,8 @@ dates of major modifications and dates of publication in Systematic Biology, and
 lastly by the date of this revision plus its publication.
 
 ### Bylaw 18. Communications Committee
+
+> this is a new bylaw
 
 #### Section 1. Function
 
@@ -721,7 +723,7 @@ executive committee at their March 08 meeting. These changes were approved by a
 majority of members voting electronically March-May 2008 and placed on the
 Society website in June of 2008.
 
-2015: Constitution put under version control at GitHub along with other documents (Feb. 16, 2015). See https://github.com/systbiol/docs. Amendments to Article IV (section 5) and Article V (section 2) made to add Communications Director and Graduate Student Councilors. Bylaws 9-16 renumbered to 10-17 in order to add a new Bylaw 9 (Presidents’ Award Committee).
+2015: Constitution put under version control at GitHub along with other documents (Feb. 16, 2015). See https://github.com/systbiol/docs. Amendments to Article IV (section 5) and Article V (section 2) made to add Communications Director and Graduate Student Councilors. Bylaws 9-16 renumbered to 10-17 in order to add a new Bylaw 9 (Presidents' Award Committee).
 
 2016: Added Bylaw 18 defining the role of the Communications Committee and Communication
 Director.
