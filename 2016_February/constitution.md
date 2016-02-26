@@ -206,6 +206,7 @@ ARTICLE VII. COMMITTEES
 ### Section 1.
 
 > needs to be re-evaluated
+
 The following Committees shall be appointed by the President pursuant to the
 conditions provided elsewhere in this Constitution and/or in the by-laws: Awards
 in Systematic Biology, Initiatives and Long-range Planning, Nominating,
@@ -219,6 +220,7 @@ ARTICLE VIII. NOMINATIONS AND ELECTIONS
 ### Section 1. Nominations
 
 > timing here is not what has been used in practice
+
 All officers (except the Editor and Trustees) and all Councilors shall be
 nominated by a Nominating Committee comprising three members. Each President
 just before the time of the annual meeting will nominate one SSB member, who is
