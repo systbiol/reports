@@ -3,6 +3,13 @@
 ## Overview
 In previous years the budget for awards was approximately $40,000. This funded 16 GSRAs, 4 mini-ARTS, and 2 Mayr winners. I am still awaiting to hear about the final budget for 2016 awards, though I anticipate it will be at least $40,000. 
 
+## Awards Director Contact
+> update: added after executive committee meeting on 2/27/2016
+
+A new email address has been created for the awards director (currently Tracy Heath for 2016-2019). This address is <ssb.awards.director@gmail.com>. 
+
+This address is for submission of application materials or queries and will be passed on to future holders of this position. All of the contact information has been changed on the SSB website. 
+
 ## Mayr Award
 The Mayr award has been announced on the SSB website and on the website for the Evolution 2016 meeting. Applicants will have to submit their abstract through the meeting's talk-registration portal. The deadline for submission is April 30, which is the end of the early registration period. However, if the available talk slots fill early, then submission will be closed. Thus, the SSB website has been edited to reflect this and urge applicants to submit as soon as possible. An advertisement to EvolDir will be posted on Monday, Feb. 29. After the application period closes, the abstracts and applicant information will be sent to me by Howard Rundle. I will recruit judges to select 10 speakers for the symposium. 
 
@@ -20,3 +27,5 @@ These awards have been announced on the SSB website for 2016. The deadline for a
 The presence of evolutionary biology and ecology research at the [Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)](http://sacnas.org/) annual conference is growing each year. This is in no small part due to the efforts of Jory Weintraub while he was Assistant Director of Education and Outreach at NESCent, as well as the ongoing participation of systematists like Scott Edwards. SSB can help continue this work to help promote the work and careers underrepresented students and researchers in our field. 
 
 At the [SACNAS national conference](http://sacnas.org/events/national-conf), several student awards are given at the conference and announced at the closing banquet in front of approximately 4,000 attendees (this year the meeting is October 13-15, 2016 in Long Beach, CA). Many of the awards are sponsored by scientific societies, universities, government agencies, and/or corporations. As the awards are announced, the sponsors are also shown. This is an excellent opportunity for SSB. We can sponsor student presentation awards in evolution/ecology (graduate student and/or undergraduate) by providing a cash prize plus 1-year membership to SSB, for example. I also know that some societies offer memberships and travel awards to their own national conferences to outstanding presenters at SACNAS. I have received information from a program manager at SACNAS, they are working on a sponsorship website that will provide a list of sponsorship options. She is happy to discuss a multi-year student award at SACNAS. It appears that this could be around $1,500 per award. 
+
+#### 2016 Awards Director: Tracy Heath
