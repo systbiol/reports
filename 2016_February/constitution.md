@@ -545,57 +545,6 @@ The Committee shall select the winner of the Presidents' Award For Lifetime Achi
 
 The Committee shall consist of the President (chair), President-Elect, and Past-President
 
-~~Bylaw 10. Initiatives and Long-Range Planning Committee
-
-|* is this committee still functioning? *|
-
-Section 1. Function
-
-The Committee shall identify and prioritize initiatives and long-range goals,
-and shall advise the Council on the best ways to implement and fund the relevant
-programs
-
-Section 2. Membership
-
-The Committee shall consist of five members. To ensure continuity, members will
-have staggered five-year terms. A new member will be appointed each year by the
-President and approved by the Council. The Chairperson of the Committee will
-serve a five-year term and may be re-appointed.
-
-Bylaw 11. Publications Committee
-
-|* is this committee still functioning? *|
-
-Section 1. Function
-
-The Committee shall identify desirable policies for the Society’s publications,
-act for the Society in negotiating printing, publishing, and other contracts,
-and provide fiscal review of the Society’s publication management. The Committee
-shall also work with the publisher or printer to promote and increase
-membership. The Editor, Editor Elect, and Managing Editor shall not be involved
-in contract negotiations with the publisher in order to maintain amiable
-relations with the current publisher.
-
-Section 2. Membership
-
-The Committee shall consist of at least five members including a Chairperson,
-the Editor, the most recent past-Editor, the Managing Editor, and the Treasurer.
-
-Bylaw 12. Coordinating Committee
-
-|* is this committee still functioning? *|
-
-Section 1. Function
-
-The Committee shall coordinate future meeting plans with representative from
-other societies as necessary.
-
-Section 2. Membership
-
-The Committee shall consist of the President, President-Elect, Executive Vice
-President, Treasurer, and Program Director, plus similar officers from the
-scientific societies with which the Society is coordinating.~~
-
 ### Bylaw 10. Joint Meeting Committee Liason Officer
 
 #### Section 1. Function
