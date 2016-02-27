@@ -220,12 +220,11 @@ ARTICLE VII. COMMITTEES
 
 ### Section 1.
 
-> needs to be re-evaluated
-
 The following Committees shall be appointed by the President pursuant to the
 conditions provided elsewhere in this Constitution and/or in the by-laws: Awards
-in Systematic Biology, Initiatives and Long-range Planning, Nominating,
-Publication, and Coordinating. The Board of Trustees shall be appointed by the
+in Systematic Biology, ~~Initiatives and Long-range Planning,~~ Nominating,
+~~Publication, and Coordinating~~ __and Joint Meeting Committee Representative__.
+The Board of Trustees shall be appointed by the
 President in consultation with the executive council and elected by the council
 as discussed below Article VIII, section 2.
 
@@ -233,8 +232,6 @@ ARTICLE VIII. NOMINATIONS AND ELECTIONS
 ---------------------------------------
 
 ### Section 1. Nominations
-
-> timing here is not what has been used in practice
 
 All officers (except the Editor and Trustees) and all Councilors shall be
 nominated by a Nominating Committee comprising three members. Each President
@@ -540,8 +537,6 @@ a previous year's Committee.
 
 ### Bylaw 9. Presidents' Award Committee
 
-> This bylaw was voted in at the 2015 council meeting in Brazil
-
 #### Section 1. Function
 
 The Committee shall select the winner of the Presidents' Award For Lifetime Achievement. The Presidents' Award is given at intervals of at least 3 years to a person (or persons) notable for their past service to the Society.
@@ -550,65 +545,79 @@ The Committee shall select the winner of the Presidents' Award For Lifetime Achi
 
 The Committee shall consist of the President (chair), President-Elect, and Past-President
 
-### Bylaw 10. Initiatives and Long-Range Planning Committee
+~~Bylaw 10. Initiatives and Long-Range Planning Committee
 
-> is this committee still functioning?
+|* is this committee still functioning? *|
 
-#### Section 1. Function
+Section 1. Function
 
 The Committee shall identify and prioritize initiatives and long-range goals,
 and shall advise the Council on the best ways to implement and fund the relevant
 programs
 
-#### Section 2. Membership
+Section 2. Membership
 
 The Committee shall consist of five members. To ensure continuity, members will
 have staggered five-year terms. A new member will be appointed each year by the
 President and approved by the Council. The Chairperson of the Committee will
 serve a five-year term and may be re-appointed.
 
-### Bylaw 11. Publications Committee
+Bylaw 11. Publications Committee
 
-> is this committee still functioning?
+|* is this committee still functioning? *|
 
-#### Section 1. Function
+Section 1. Function
 
-The Committee shall identify desirable policies for the Society's publications,
+The Committee shall identify desirable policies for the Society’s publications,
 act for the Society in negotiating printing, publishing, and other contracts,
-and provide fiscal review of the Society's publication management. The Committee
+and provide fiscal review of the Society’s publication management. The Committee
 shall also work with the publisher or printer to promote and increase
 membership. The Editor, Editor Elect, and Managing Editor shall not be involved
 in contract negotiations with the publisher in order to maintain amiable
 relations with the current publisher.
 
-#### Section 2. Membership
+Section 2. Membership
 
 The Committee shall consist of at least five members including a Chairperson,
 the Editor, the most recent past-Editor, the Managing Editor, and the Treasurer.
 
-### Bylaw 12. Coordinating Committee
+Bylaw 12. Coordinating Committee
 
-> is this committee still functioning?
+|* is this committee still functioning? *|
 
-#### Section 1. Function
+Section 1. Function
 
 The Committee shall coordinate future meeting plans with representative from
 other societies as necessary.
 
-#### Section 2. Membership
+Section 2. Membership
 
 The Committee shall consist of the President, President-Elect, Executive Vice
 President, Treasurer, and Program Director, plus similar officers from the
-scientific societies with which the Society is coordinating.
+scientific societies with which the Society is coordinating.~~
 
-### Bylaw 13. Journal
+### Bylaw 10. Joint Meeting Committee Liason Officer
+
+#### Section 1. Function
+
+The Joint Meeting Committee Liason Officer shall coordinate future meeting plans with representatives from
+other societies as necessary.
+
+#### Section 2. Membership
+
+The Joint Meeting Committee Liason Officer represents SSB within the Joint Meeting
+Committee, which is composed of representatives from all societies that participate
+in the joint summer meetings, and reports to the Council on activities of and decisions
+made by the Joint Meeting Committee.
+
+### Bylaw 11. Journal
 
 The principal journal of the Society shall be called Systematic Biology and
 shall be managed by an Editor who is elected by and is responsible to the
 President and Council. Appointment of an Editorial Board and Associate Editors
 is the responsibility of the Editor, with approval of the Council.
 
-### Bylaw 14. Appeal of Editorial Decisions
+### Bylaw 12. Appeal of Editorial Decisions
 
 A contributor to the journal may appeal to the Council to overrule editorial
 decisions made concerning his or her manuscript. In case of such an appeal the
@@ -619,7 +628,7 @@ appropriate. If the Council determines that the appeal is without merit, this
 finding together with any explanatory information that the Council deems
 suitable shall be included in the minutes of the meeting.
 
-### Bylaw 15. Endowment Fund
+### Bylaw 13. Endowment Fund
 
 There shall be an Endowment Fund (formerly called Patrons-Endowment Fund), which
 shall consist of contributions from members, proceeds from sale of back issues
@@ -630,7 +639,7 @@ Society's journal. The principal of the Fund may be used for the same purposes
 if authorized by a majority vote, which may be conducted by mail or electronic
 mail, of all voting members of the Council.
 
-### Bylaw 16. Amendment
+### Bylaw 14. Amendment
 
 Amendments to the Bylaws may be proposed by any member of the Society by letter
 addressed to the Secretary at least two months prior to an Annual Meeting.
@@ -644,16 +653,14 @@ voting in a mail ballot or, in an emergency, by a two-thirds majority of members
 voting at an Annual Meeting. If approved by the Society membership, amendments
 to the Bylaws take effect at the end of the Annual Meeting following the vote.
 
-### Bylaw 17. History of Constitution and Bylaws
+### Bylaw 15. History of Constitution and Bylaws
 
 The Constitution and Bylaws will be followed by a statement of when they were
 adopted initially, and of their publication in Systematic Biology, followed by
 dates of major modifications and dates of publication in Systematic Biology, and
 lastly by the date of this revision plus its publication.
 
-### Bylaw 18. Communications Committee
-
-> this is a new bylaw
+### Bylaw 186. Communications Committee
 
 #### Section 1. Function
 
@@ -666,8 +673,8 @@ members as well as other Council members that have been given editing privileges
 #### Section 2. Membership
 
 The Committee shall consist of Communications Director (chair) and at least two additional
-members appointed annually by the Awards Director. The committee should include at least
-one person who served on the Committee in the previous year.
+members appointed annually by the Communications Director or the President. The committee
+should include at least one person who served on the Committee in the previous year.
 
 HISTORY OF CONSTITUTION AND BYLAWS
 ----------------------------------
