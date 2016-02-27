@@ -609,7 +609,7 @@ adopted initially, and of their publication in Systematic Biology, followed by
 dates of major modifications and dates of publication in Systematic Biology, and
 lastly by the date of this revision plus its publication.
 
-### Bylaw 186. Communications Committee
+### Bylaw 16. Communications Committee
 
 #### Section 1. Function
 
@@ -696,7 +696,10 @@ executive committee at their March 08 meeting. These changes were approved by a
 majority of members voting electronically March-May 2008 and placed on the
 Society website in June of 2008.
 
-2015: Constitution put under version control at GitHub along with other documents (Feb. 16, 2015). See https://github.com/systbiol/docs. Amendments to Article IV (section 5) and Article V (section 2) made to add Communications Director and Graduate Student Councilors. Bylaws 9-16 renumbered to 10-17 in order to add a new Bylaw 9 (Presidents' Award Committee).
-
-2016: Added Bylaw 18 defining the role of the Communications Committee and Communication
-Director.
+2015-2016: Constitution put under version control at GitHub along with other documents
+(Feb. 16, 2015). See https://github.com/systbiol/docs. Amendments to Article IV (section 5)
+and Article V (section 2) made to add Communications Director and Graduate Student
+Councilors. Bylaws 9 (Initiatives and Long-Range Planning Committee),
+10 (Publications Committee), and 11 (Coordinating Committee) removed,
+Bylaw 9 (Presidents' Award Committee) added, Bylaws 12-17 renumbered to 10-15, and
+Bylaw 16 (Communications Committee) added.
