@@ -28,7 +28,7 @@ Six awards were made from a pool of 16 submitted proposals toward revisionary ta
 
 Our panel of 13 expert reviewers evaluated the proposals based on the following:
 
-1. Do the efforts described in the proposal fit the intended objectives of the Mini-ARTS program (described above)?
+1. Do the efforts described in the proposal fit the intended objectives of the Mini-ARTS program?
 2. Will the proposed activities effectively address the applicant's stated goals?
 
 The anonymized reviewer responses to the questions above, plus their rating on a scale from poor to excellent and any additional comments were sent to each applicant upon notification of their outcome in the review process. Several applicants (including those who received the award and those who were not awarded) emailed to say that they appreciated the reviewer feedback. 
