@@ -21,7 +21,7 @@ At the 2016 Evolution Meetings, the awards committee met with Elizabeth Jockusch
 All reviewers for the Mini-ARTS proposals, GSRA proposals, Mayr abstracts, and Mayr talks were screened for conflicts of interest prior to being assigned. 
 
 ### Google Drive and Jupyter Notebooks
-Managing the awards has all been handled via the ssb.awards.director@gmail.com Google account. In the Google Drive, I have created Google Forms for collecting information from applicants and reviewers. I have also written Python programs (using Jupyter notebooks) to compile the proposals, assign reviewers to proposals, and quantitatively score applications. All of this material will be turned over to the next awards director when my term ends. Hopefully they find it useful (and know/like python). 
+Managing the awards has all been handled via the ssb.awards.director@gmail.com Google account. In the Google Drive, I have created Google Forms for collecting information from applicants and reviewers. I have also written Python programs (using Jupyter notebooks) to compile the proposals, assign reviewers to proposals, and quantitatively score applications. All of this material will be turned over to the next awards director when my term ends. Hopefully they find it useful (and they know/like python). 
 
 ## Mini-ARTS Awards
 Six awards were made from a pool of 16 submitted proposals toward revisionary taxonomy and systematics. The 2016 awardees are all listed on the [SSB Mini-ARTS Page](http://www.systbio.org/mini-arts-awards.html). 
