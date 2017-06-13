@@ -49,7 +49,7 @@ We use mailchimp to communicate with our members. We still have the loop of me a
 
 ## Website
 
-We have kept the main website on Weebly. I'd like to eventually use github pages or similar for the SSB website (Weebly is hard to fight through to adjust things) but I haven't made the time to transition. I've added a section with all our letters (about science funding, climate change, etc.) and each has its own URL (anchor) so we can link to it directly. I also used our homepage to communicate to readers at the height of Oxford issues. Our github group is also getting fleshed out: besides the reports, we now have a place to distribute inappropriately paywalled OA content as well as an Rmarkdown file that lets us check the status of our journal.
+We have kept the main website on Weebly. I'd like to eventually use github pages or similar for the SSB website (Weebly is hard to fight through to adjust things -- it is almost entirely a GUI, with raw HTML editing only within blocks on a page) but I haven't made the time to transition. I've added a section with all our letters (about science funding, climate change, etc.) and each has its own URL (anchor) so we can link to it directly. I also used our homepage to communicate to readers at the height of Oxford issues. Our github group is also getting fleshed out: besides the reports, we now have a place to distribute inappropriately paywalled OA content as well as an Rmarkdown file that lets us check the status of our journal.
 
 ## DDIG
 
