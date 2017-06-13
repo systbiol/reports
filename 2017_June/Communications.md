@@ -50,3 +50,7 @@ We use mailchimp to communicate with our members. We still have the loop of me a
 ## Website
 
 We have kept the main website on Weebly. I'd like to eventually use github pages or similar for the SSB website (Weebly is hard to fight through to adjust things) but I haven't made the time to transition. I've added a section with all our letters (about science funding, climate change, etc.) and each has its own URL (anchor) so we can link to it directly. I also used our homepage to communicate to readers at the height of Oxford issues. Our github group is also getting fleshed out: besides the reports, we now have a place to distribute inappropriately paywalled OA content as well as an Rmarkdown file that lets us check the status of our journal.
+
+## DDIG
+
+Independent of being part of SSB, I proposed a potential [resolution](https://docs.google.com/document/d/1T2mW0APduOKIr09i68AZbTjadvQd_heJZe8iQsCOERw/edit) to NSF's cancellation of DDIGs. I doubt this particular proposal is going anywhere, but it helped with a conversation and got the notice of a reporter from *Science*, who talked to me and who I put in contact with Luke Harmon and Dean Adams. As a result, SSB was highlighted in the [article](http://www.sciencemag.org/news/2017/06/ecologists-protest-sudden-end-nsf-dissertation-grants) that appeared on the DDIG issue.
