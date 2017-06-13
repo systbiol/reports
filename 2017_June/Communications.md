@@ -22,7 +22,7 @@ I've created Google groups for the council, exec, and the ssbpublishing subcommi
 Casey suggested Google Suite for nonprofits to allow us to coordinate as a council more easily (shared docs, etc.). We tried to get this established, but it requires certification that the people involved are part of the nonprofit (being listed on our tax forms, etc.). We worked with our accountant to try to do this but it didn't work.
 
 ## Action items for council
-*  Decide about paying for Google Suite or similar.
+*  Decide about paying for Google Suite or similar. Google Suite is $5/user/month.
 
 ## Facebook
 
@@ -49,4 +49,4 @@ We use mailchimp to communicate with our members. We still have the loop of me a
 
 ## Website
 
-We have kept the main website on Weebly. I'd like to eventually use github pages or similar for the SSB website (Weebly is hard to fight through to adjust things) but I haven't made the time to transition. I've added a section with all our letters (about science funding, climate change, etc.) and each has its own URL (anchor) so we can link to it directly. 
+We have kept the main website on Weebly. I'd like to eventually use github pages or similar for the SSB website (Weebly is hard to fight through to adjust things) but I haven't made the time to transition. I've added a section with all our letters (about science funding, climate change, etc.) and each has its own URL (anchor) so we can link to it directly. I also used our homepage to communicate to readers at the height of Oxford issues. Our github group is also getting fleshed out: besides the reports, we now have a place to distribute inappropriately paywalled OA content as well as an Rmarkdown file that lets us check the status of our journal.
