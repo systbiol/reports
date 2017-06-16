@@ -1,0 +1,94 @@
+---
+title: '*Systematic Biology* Impact Factor'
+author: "Brian O'Meara"
+date: "6/16/2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Impact factor
+
+Impact factor as a measure for a journal has [many negatives](http://www.sciencemag.org/news/2016/07/hate-journal-impact-factors-new-study-gives-you-one-more-reason). However, as communications director for the Society of Systematic Biologists, I see that many people *do* still care about them (and other journals are talking about theirs), and so I should talk about them, but with context (note that this document reflects my personal views). *Systematic Biology*'s impact factor went up, slightly, from 8.225 to 8.917, making it the #3 journal in Evolutionary Biology based on impact (behind *Trends in Ecology and Evolution* (15.268) and *Annual Review of Ecology, Evolution, and Systematics* (10.183). However, there's far less than thousandths for precision. Impact factor for 2016 is basically number of citations in 2016 to citable articles published in 2014 or 2015, divided by number of such articles. Downloading citation info from Web of Science for our articles gives a slightly different impact factor than the official one, but well-correlated. The advantage is that we can then bootstrap the papers to get a 95% confidence interval on the estimates:
+
+```{r, echo=FALSE}
+records <- read.csv("~/Dropbox/SysBioRecords.txt") # from Web of Science: Title Systematic Biology, all papers in particular range, download citation report as text. Not including the raw source here b/c worried about copyrighted data.
+
+ExtractCitations <- function(year, records, DOIs=FALSE) {
+   records.local <- subset(records, records$Publication.Year>=(year-2))
+   records.local <- subset(records.local, records.local$Publication.Year<year)
+   citations <- records.local[,paste("X",year, sep="")]
+   if(DOIs) {
+    names(citations) <- paste("DOI", records.local$DOI, sep="_")
+   }
+   return(citations)
+}
+
+GetRawAndCI <- function(citations) {
+  all.values <- replicate(10000, sum(sample(citations, size=length(citations), replace=TRUE))/length(citations)) 
+  quantile.results <- quantile(all.values, c(0.025, 0.975))
+  all.results <- c(quantile.results, sum(citations)/length(citations))
+  names(all.results) <- c("0.025", "0.975", "actual")
+  return(all.results)
+}
+
+results.df <- c()
+years <- 2013:2016
+for (year.index in sequence(length(years))) {
+  local.vector <- c(years[year.index], GetRawAndCI(ExtractCitations(years[year.index], records)))
+  names(local.vector)[1] <- "year"
+  results.df <- rbind(results.df, data.frame(matrix(local.vector, nrow=1))) 
+}
+colnames(results.df) <- names(local.vector)
+actual <- results.df$actual
+names(actual) <- results.df$year
+barplot.info <- barplot(actual, ylim=c(0, max(results.df$"0.975")))
+for (year.index in sequence(length(years))) {
+    arrows(x0=barplot.info[year.index], x1=barplot.info[year.index], y0=results.df$`0.025`[year.index], y1=results.df$`0.975`[year.index], code=3, angle=90, ylab="Estimated impact factor")
+}
+#plot(x=range(results.df$year), y=range(c(0, results.df[,-1])), type="n", bty="n", xlab="Year", ylab="Approximate impact", xaxt="n")
+#axis(side=1, at=years)
+#lines(x=results.df$year, y=results.df$"0.025", lty="dotted")
+#lines(x=results.df$year, y=results.df$"0.975", lty="dotted")
+#lines(x=results.df$year, y=results.df$actual, lwd=2)
+
+```
+
+So, our journal did go up, but the scores are based on a particular set of papers: generate a new distribution centered on the actual one and we could have gotten radically different scores.
+
+We can also use this information to look at effect of individual papers on the impact factor.
+
+```{r, echo=FALSE}
+for.stacked.plot.df <- data.frame()
+library(RColorBrewer)
+for (year.index in sequence(length(years))) {
+  local.vector <- ExtractCitations(years[year.index], records, DOI=TRUE)
+  local.vector <- local.vector / length(local.vector)
+  if(year.index==1) {
+    for.stacked.plot.df <- data.frame(t(local.vector))
+  } else {
+       for.stacked.plot.df <- merge(for.stacked.plot.df, data.frame(t(local.vector)), all=TRUE)
+  }
+}
+#rownames(for.stacked.plot.df) <- rev(years)
+for.stacked.plot.df[is.na(for.stacked.plot.df)] <- 0
+rownames(for.stacked.plot.df) <- c(2015, 2016, 2014, 2013) # BAD CODING. But this is the order -- not clear what's happening
+for.stacked.plot.df <- for.stacked.plot.df[order(rownames(for.stacked.plot.df) ),]
+for.stacked.plot.matrix <- t(as.matrix(for.stacked.plot.df))
+barplot(for.stacked.plot.matrix, col=brewer.pal(12,"Set3"), border=NA, ylab="Estimated impact factor")
+```
+
+Where each block of color represents impact contributed by one paper. The big purple blob is [Ronquist et al. 2012](https://doi.org/10.1093/sysbio/sys029) -- the MrBayes 3.2 paper that has 4,111 citations -- when that one paper timed out of impact factor calculations, it had a major effect on overall impact factor (which is a mean, not a median).
+
+Another way to look at the data would be to see the histogram of citations per paper:
+
+```{r, echo=FALSE}
+citations.2016 <- ExtractCitations(2016, records, DOI=FALSE)
+hist(citations.2016, main=paste("Per paper published in 2014-5; median is", round(median(citations.2016),1)), col="gray", xlab="Citations", freq=TRUE, breaks=seq(from=-0.5, to=.5+max(citations.2016), by=1))
+abline(v=median(citations.2016), col="red", lty="dashed")
+```
+
