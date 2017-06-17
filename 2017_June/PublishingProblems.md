@@ -12,3 +12,29 @@ On June 17, 2017, I tried looking at a variety of articles to see how long it wo
 * https://doi.org/10.1080/10635150500433565, https://doi.org/10.1080/10635150490264680, https://doi.org/10.1093/sysbio/syr094: Subscripts not rendering properly.
 
 This has also affected sites like Google Scholar: look at [Jack Sullivan's](https://scholar.google.com/citations?user=x1d3PxUAAAAJ&hl=en&oi=ao) page for articles that appear under his name, but where he's not listed as an author -- it's where Oxford has supplied Google with inaccurate authorship info (link to one of the articles, for example, [this one](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x1d3PxUAAAAJ&citation_for_view=x1d3PxUAAAAJ:URolC5Kub84C), and then go to Oxford's [page for it](https://academic.oup.com/sysbio/article/57/4/628/1632197), and compare it to the [PDF version](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/sysbio/57/4/10.1080/10635150802302443/2/57-4-628.pdf?Expires=1497810338&Signature=Y4JNZJ04saWFoYW6TeEzdU6w-56Ayx2CNKTSNLrdq4mZ~Pag3CmVCugx8e8xVPTQ07Za5blETDKYi7TdYs8HoyQZCVWxf3K33p6RrMZ4eQBFpGW2aAb3TZoHK3RAF4oR35uLqBkYEexFSFkOJpUkAx8dYBWFzqh60wgBOUGCZniWbWJs6HzclNTDmP7AzMwzZEp6TlOv5-VOoi3tEXBEyQ1auBsihNHh-4Iaov3g8CsTQZ~1PHqmxGPbgrZBzInRpDFNPO-AA4lIMxcLtnDaCTZDSe5cAqwKd3s4uO-mCir5Gqf6fR0GyDu-~XQ2wEqLiadfPNmRz5CUKAQD5S1WJA__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)). Citations one downloads are also still wrong. [Note, I'm highlighting Jack b/c he was a very active AE over a period where this has happened a lot, and he also pointed this out on FB].
+
+Here's an example:
+
+Journal page (note the article by DeBry)
+
+![journal](images/journalpage.jpg)
+
+The html of the article (note the second author)
+
+![html](images/html.jpg)
+
+The info where you download the citation
+
+![citation download](images/citation_download.jpg)
+
+The downloaded citation
+
+![RIS format](images/citation.jpg)
+
+And the PDF of the actual article
+
+![article PDF](images/Author_pdf.jpg)
+
+As well as the AE ("Jack" not "Jact")
+
+![AE PDF](images/AE_pdf.jpg)
