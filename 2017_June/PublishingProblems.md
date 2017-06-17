@@ -13,7 +13,7 @@ On June 17, 2017, I tried looking at a variety of articles to see how long it wo
 
 This has also affected sites like Google Scholar: look at [Jack Sullivan's](https://scholar.google.com/citations?user=x1d3PxUAAAAJ&hl=en&oi=ao) page for articles that appear under his name, but where he's not listed as an author -- it's where Oxford has supplied Google with inaccurate authorship info (link to one of the articles, for example, [this one](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x1d3PxUAAAAJ&citation_for_view=x1d3PxUAAAAJ:URolC5Kub84C), and then go to Oxford's [page for it](https://academic.oup.com/sysbio/article/57/4/628/1632197), and compare it to the [PDF version](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/sysbio/57/4/10.1080/10635150802302443/2/57-4-628.pdf?Expires=1497810338&Signature=Y4JNZJ04saWFoYW6TeEzdU6w-56Ayx2CNKTSNLrdq4mZ~Pag3CmVCugx8e8xVPTQ07Za5blETDKYi7TdYs8HoyQZCVWxf3K33p6RrMZ4eQBFpGW2aAb3TZoHK3RAF4oR35uLqBkYEexFSFkOJpUkAx8dYBWFzqh60wgBOUGCZniWbWJs6HzclNTDmP7AzMwzZEp6TlOv5-VOoi3tEXBEyQ1auBsihNHh-4Iaov3g8CsTQZ~1PHqmxGPbgrZBzInRpDFNPO-AA4lIMxcLtnDaCTZDSe5cAqwKd3s4uO-mCir5Gqf6fR0GyDu-~XQ2wEqLiadfPNmRz5CUKAQD5S1WJA__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)). Citations one downloads are also still wrong. [Note, I'm highlighting Jack b/c he was a very active AE over a period where this has happened a lot, and he also pointed this out on FB].
 
-Here's an example:
+Here's an [example](https://doi.org/10.1080/10635150390235403) from June 17, 2017:
 
 Journal page (note the article by DeBry)
 
