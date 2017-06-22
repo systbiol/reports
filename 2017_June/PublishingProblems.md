@@ -2,6 +2,8 @@ Issues with current publisher
 
 ## History of issues
 
+These issues have been reported to OUP, mostly in Jan. and Feb., with more info going to them as it comes in.
+
 * Five open access articles incorrectly paywalled. In at least two cases (Rutger Vos & Tracy Heath), authors notified Oxford (Jan 2 and Feb 7, respectively) but did not get immediate action. I emailed Feb 21; Feb 25, still not fixed; finally fixed Feb 28.
 * DOIs failing
 * Articles appearing in the *Logic Journal of the IGPL* instead of *Systematic Biology*
@@ -10,6 +12,8 @@ Issues with current publisher
 * Associate editors and EIC added as authors in HTML versions, including citations.
 * Slow access
 * RSS feeds not valid
+* Members failing to get access
+* Members not able to renew
 
 ## Many issues still persist
 
@@ -21,6 +25,8 @@ Note that OUP will be presenting a report on problems and progress. However, som
 * Text formatting issues (weird spacing)
 * Associate editors and EIC added as authors in HTML versions, including citations (https://academic.oup.com/sysbio/article-lookup/doi/10.1080/106351598260806).
 * RSS feeds not valid
+* Members failing to get access
+* Members not able to renew
 
 On June 17, 2017, I tried looking at a variety of articles to see how long it would take to check for errors manually, given that errors persist despite them first being reported over six months ago. My strategy was to look at an article or two in an issue, skip forward a few years, repeat. I skimmed the articles for problems, paying particular attention to incorrect info in equations. I also got the PDF for each article to compare with the html version. I used a form to track when I looked at each. Articles were not based on ones that previously had problems. I did 12 articles in 14 minutes. *Systematic Biology* has, according to Web of Science, 1,614 articles, so doing all in this way would have taken 32 hours. (*Systematic Zoology* has 1,461 more -- I haven't checked for any problems with those yet). Of those 12 articles, 2 had issues with subscripts in tables ("23.0a/8b (278)c" and "aAverage bootstrap support" for example) and three had missing equations. I also did a targeted search for an AE problem (Jack Sullivan incorrectly listed as an author) and found two instances of that of three articles I checked (the remaining one still had caption issues).
 
