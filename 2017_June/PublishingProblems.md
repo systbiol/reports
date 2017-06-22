@@ -2,7 +2,7 @@ Issues with current publisher
 
 ## History of issues
 
-* Five open access articles incorrectly paywalled. In at least two cases (Rutger Vos & Tracy Heath), authors notified Oxford (Jan 2 and Feb 7, respectively) but did not get immediate action. I emailed Feb 21; Feb 25, still not fixed; finally fixed Feb 28).
+* Five open access articles incorrectly paywalled. In at least two cases (Rutger Vos & Tracy Heath), authors notified Oxford (Jan 2 and Feb 7, respectively) but did not get immediate action. I emailed Feb 21; Feb 25, still not fixed; finally fixed Feb 28.
 * DOIs failing
 * Articles appearing in the *Logic Journal of the IGPL* instead of *Systematic Biology*
 * Equations not being rendered properly
