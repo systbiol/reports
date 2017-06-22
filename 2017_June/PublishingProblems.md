@@ -2,6 +2,8 @@ Issues with current publisher
 
 ## History of issues
 
+
+
 ## Issues still persist
 
 On June 17, 2017, I tried looking at a variety of articles to see how long it would take to check for errors manually, given that errors persist despite them first being reported over six months ago. My strategy was to look at an article or two in an issue, skip forward a few years, repeat. I skimmed the articles for problems, paying particular attention to incorrect info in equations. I also got the PDF for each article to compare with the html version. I used a form to track when I looked at each. Articles were not based on ones that previously had problems. I did 12 articles in 14 minutes. *Systematic Biology* has, according to Web of Science, 1,614 articles, so doing all in this way would have taken 32 hours. (*Systematic Zoology* has 1,461 more -- I haven't checked for any problems with those yet). Of those 12 articles, 2 had issues with subscripts in tables ("23.0a/8b (278)c" and "aAverage bootstrap support" for example) and three had missing equations. I also did a targeted search for an AE problem (Jack Sullivan listed as an author) and found two instances of that of three articles I checked (the remaining one still had caption issues).
@@ -38,3 +40,55 @@ And the PDF of the actual article
 As well as the AE ("Jack" not "Jact")
 
 ![AE PDF](images/AE_pdf.jpg)
+
+We also had a report on June 21, 2017, of a new article that was published in the wrong journal, with the wrong DOI:
+
+From the author:
+
+```
+To whom it may concern,
+
+I wanted to make sure you are aware that our recent paper paper ("Biodiversity and the Species Concept—Lineages are not Enough”) is missing from the fourth issue online of Systematic Biology, where it is supposed to appear.
+
+This may be related to the fact that the paper has incorrectly been published as an article in the Logic Journal of the IGPL. Could you please fix the incorrect journal and add this paper to the correct issue also? I know there were a number of issues related to moving Systematic Biology to the new website format, and given the timing of our advanced access publication, I suspect this is part of that.
+
+Thanks!
+
+Ryan
+
+Ryan Folk
+NSF Postdoctoral Associate
+Florida Museum of Natural History
+Dickinson Hall
+1659 Museum Road
+Gainesville, FL 32611
+http://www.ryanafolk.com/
+```
+
+From Oxford:
+
+```From: Oxford University Press [mailto:noreply@academic.oup.com]
+Sent: Saturday, June 17, 2017 1:58 PM
+To: Freudenstein, John <freudenstein.1@osu.edu>
+Cc: jigpal@oup.com
+Subject: Timed access to your article
+
+Dear Author,
+
+I am pleased to inform you that Oxford University Press has published your article in Logic Journal of the IGPL.
+
+Here are the links to your online article:
+
+Abstract:
+https://academic.oup.com/jigpal/article-abstract/66/4/644/2682288/Biodiversity-and-the-Species-ConceptLineages-are
+Article (free access):
+https://academic.oup.com/jigpal/article/66/4/644/2682288/Biodiversity-and-the-Species-ConceptLineages-are?guestAccessKey=e35a1dd7-5d75-43fa-8fbf-526a79233c98
+```
+
+And the article:
+
+![Freudenstein](images/FreudensteinEtAl2017.jpg)
+
+Note that the DOI in the article, which is a SystBio DOI: https://doi.org/10.1093/sysbio/syw098 creates an error:
+
+![DOI](images/doierror.jpg)
