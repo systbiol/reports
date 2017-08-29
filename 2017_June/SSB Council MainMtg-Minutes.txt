@@ -1,0 +1,123 @@
+SSB Council Meeting: June 23, 2017: Portland OR; 1:00 - 6:00 pm
+  -scribe: DC Adams (EVP)
+
+### NOTE: all voted actions summarized here, and found in minutes below. All actions approved unanimously
+
+A: Ad-hoc strategic planning formed. members: Casey Dunn, Anne Yoder, Dean Adams, Tom Near, Liam Revell, Emily McTavish
+      -Budget discussion added to charge of this committee
+      -Devising procedures for proposals for external funding (e.g., workshops) included in charge
+B: -President will must set up nomination committee to identify next HE
+C: Ad-hoc proposal review committee formed. members: Rob Clayton, Casey Dunn, Brian O'Meara, Dean Adams
+D: For 2018 ESEB, SSB will host food/drink at poster session
+E: Vote on 2021/2022 venues: Albuquerque, then Athens GA sequentially
+F: SSB will purchase Google Suites for enhancing society communications etc.
+G: Postdoc Research Awards Plan passed; details TBD by Awards and Planning Committees
+H: Grad Res. Award eligibility extended to 4 years
+I: Student Travel Awards concept approved (details TBD)
+J: Student Rep Report to be added to official council agenda going forward
+K: Student Membership price reduced to $20
+L: Changes to Constitution to go to members for vote
+M: Plan on virtual council meeting in December
+O: Council attendance requirement lifted for 2018 council meeting in Montpellier
+P: Rob Clayton (CPA) approved for a 5 year term
+
+
+####### Minutes
+1: Publishers Report (Julia McDonnell)
+ - Journal is healthy; online usage increased by 12%, IF increased to 8.917 (now #3 in Evol. category); circulation and production summarized.
+ - Summary of OUP proposal for next 5 years - provided 2 versions: one with outsourced membership management (proposed by Allen press) and one as current; proposal includes gift membership option (outsourced membership only), and 50 gift memberships the society may use (same);  propose a survey of lapsed members to learn why they left (didn't want to assume it is the web-renewal interface); proposes to enhance membership in other geographic regions (Latin America, Europe, Asia); society could use its 50 gift memberships to 'seed' this growth; finances: 75% profit share, 80% guaranteed; slight change from last year due to exchange rate
+
+   -? Does OUP have similar outsourced model? Yes, SMBE uses Allen press for management
+   -? Would price for outsourced member management be flat fee or per member: Both: a base fee plus a per member charge (no hard numbers given)
+
+ - Web Platform Discussion (2 OUP techs phoned in: John Campbell and ??); aerticles and formula issue fixed as of that morning (they spot checked only); John Campbell (OUP) provided summary of transition and some of the problems with migration; part was apparently higher than anticipated web traffic (crawling) during the first month of migration
+
+   -? How was checking done on AE as author & metadata issues done before, and now? In other words, how do we know it is really fixed?  OUP: There was metadata mismatch; platform incorrectly injected editors as authors. now corrected in platform. Need to reload data to platform so it is now correct; going forward this should not re-occur.
+   -? What is the timeline? OUP does not have a timeline, depends on production team; could be weeks or month...
+   -? Is AE appearing as author systemic to other OUP journals? A few occurrences, depends on how many levels of editors
+   -? Why is this taking so long to fix? 'In depth' changes to database schema required. Need to think carefully for implementation.
+    -? MBE lost 16 years of content for a while. What checks are in place for this for SSB?  Checks are comprehensive...
+
+2: Endowment (Dave Hillis)
+  - Brief history of endowment: 30 years ago society basically broke; began endowment and plan for continued solvency; endowment just passed 1M; annual payout goal: 4% over time (but up to council);
+  -? Is endowment growth investment or new money? Primarily due to investment growth.
+  -? ESEB has many progressive activities (student travel, childcare, etc.); are there opportunities for SSB financially? Yes, and thinking about endowment payout for such activities critical if SSB has membership drive
+
+  -Discussion of declining membership: some noted this is ultimately on us; we need to be clear about membership worth and convey that to students; focus on demonstrating impact of SSB to community as reason to join/retain membership... (much discussion here).
+  -With DDIGs going away, perhaps SSB can think about donation campaign for student research.
+  -Council could consider planned giving in estates from long-time members
+
+**-Ad-hoc strategic planning formed. members: Casey Dunn, Anne Yoder, Dean Adams, Tom Near, Liam Revell, Emily McTavish
+
+3: EIC Report (Tom Near)
+ -main goal so far: bringing down turnaround time; has been overall decrease in submissions; new directions: encourage folks to submit to SB not MBE (new methods/software push now); encouraging researchers for synthesis papers on important topics (has 2 out, will be asking a 3rd soon); SB has a great group of AEs, but is a need to increase in areas with high manuscript load;
+
+ -?questions on length of time AE and reviewers are given, diversity in AE pool (board membership diversity a bit off),
+
+***-President (LUKE) must set up nomination committee now, to search for next HE; discussion of whether HE can continue for another term if desired by HE and SSB;
+
+4: Treasurer report (Casey Dunn)
+ -society is financially healthy; too much cash on hand; income roughly same from membership and investment, largest portion royalties; recommends changes to how we do things, spend more money to enhance society's impact (and bring down cash on hand); need to formalize procedures for funding external activities, perhaps as application process (e.g., workshops);  additional funds for awards discussed; outsource some of society work would be helpful;
+
+ -? discussion/questions on workshops and activities: could have annual call with mechanism to obtain rolling funds; policies should be on web page once established; AGA model (with rolling approach) was mentioned; general consensus to codify procedure; a cap likely needed. must be member
+
+-CPA (Rob Clayton) summarized his 15 years with SSB: has negotiated publishing contracts for other organizations, which could be helpful to SSB; proposed 3 items he can do to assist society which are already within his charge (give society representative access to the books on his servers; administer awards once decisions made; convert 12 month forcast into budget);  Was broad consensus that all were useful (these services are already included in his cost)
+
+-? questions concerning cash on hand, size of endowment relative to IRS, whether to transfer some COH to endowment (Rob felt no);
+
+-Outside assistance (membership management) discussion. SSB should request RFP from Burk & Assoc, Allen, etc.)
+-Proposed we hire outside consulting (Rob Clayton) to review publisher proposals
+
+**Council voted to include budget discussion in the charge for the strategic planning committee
+**Council voted to form proposal committee (Rob Clayton, Casey Dunn, Brian O'Meara, Dean Adams)
+
+5: Joint Meeting Committee (Kelly Zamudio)
+ -summarized NSF presentation: flat budget, no staffing, proposal load increased, PIs decreased; Biology likely move to rolling deadlines,
+-meeting venues: JMC (joint meeting committee) needs to move to 4 year's out for planning; university-based meetings no longer viable (too many attendees and universities don't permit long-range contracts); SSB has and continues to push for rotating location of meetings; large discussion of 2018 meeting in Montpellier: many differences in ESEB model (must propose symposia 'sessions' then individuals apply to give talk in one of these; many posters instead of talks; timeframe reversed from joint-meeting because not everyone gets to give a talk (symposia/talk submission first, then registration for meeting; no society socials; major talks like Mayr are folded into sessions); Meeting capped at 2,500 so register early; posters divided on 3 floors; ESEB suggested each society 'host' a floor with food/drink
+
+** Council voted to approve SSB hosting food/drink at poster session for 1 floor as per ESEB's suggestion
+
+-Upcoming meetings: 2019: Providence;  2020: Cleveland: super social Rock-n-roll HOF; discussion of options for 2021/2022 (Albuquerque, Athens GA, San Juan main options); discussion of future locations (Duluth, Denver, Montreal, Toronto); council requested Mexico City, La Paz, Madison be added; Discussion of shifting poster sessions to lunch to free up evenings. KZ will follow up with the JMC
+
+** Council voted for Albuquerque, then Athens GA, then San Juan
+
+6: Communications (Brian O'Meara)
+ -SSB has been transparent on issues with OUP: folks like this (it was mentioned that including AE on web articles may be a broader issue across publishing: need to follow up); some help with twitter feed will benefit; wants to update web page; discussion of this and possibly outside help
+
+** Council voted to approve purchase on Google suites to assist
+
+7: Awards (Tracy Heath)
+ -Summary of Mayr awards; Mayr timeline will change for 2018 ESEB meetings; Grad res. awards exploded (84 applicants this year); lots of assistance in reviewing, each reviewer read 4-5 proposals;
+ -large discussion of new post-doc award: how many, how much (proposed 6 @ 1K; but 1 suggestion for 10 @ $2500); should name it;
+
+** Council voted to approve concept; details TBD btwn awards and planning committees
+** Council voted to extend Grad Res. Award eligibility to 4 years
+** Council voted to initiate student travel awards (details TBD)
+
+8: Program Chair (Dave Weisrock)
+ -reviewed symposia and spotlight sessions; unsure of spotlight session impact; organization requires longer lead-time; 2018 update: don't know how many symposia have gone in. Can do another push to encourage folks to submit proposals;
+ -Discussion of funding levels for symposia/workshops, currently at 4K and hasn't changed in a while (ASN @ 6K); discussion added to strat. planning committee
+
+
+9: New Business
+ -Workshop funding levels/procedure: part of strategic planning
+ -Nomination of nomination committee member (Laura Lagomarsino); upcoming nominations required for Awards, Communications, Treasurer positions.
+
+ -Discussion of constitution changes regarding e-voting and student reps on council.
+**Will go out to full membership for a vote
+**PUT student rep input on OFFICIAL AGENDA
+
+ -Lengthy discussion of publisher proposal bids; while web and membership issues are considerable, HE & AE interface with OUP has been solid; HE concerned about possible shift; Need time to assess bids; reminder that OUP has heard these issues for quite a few years and the response is 'we're working on it';
+
+ -lengthy discussion of membership categories, types, and prices; strong support for P-doc and gift member classes: not sure if OUP can do the latter; Student member prices discussed (with historical note that it was once tied to price of large pizza, one topping).
+** Council voted to reduce student membership to $20.
+
+ -Discussion on SSB business continuity and lack of discussion except at annual and stand-alone meetings; was support for having virtual meeting 1-2 months prior to conferences so items to be sorted by conference are not overlooked (note: 2018 stand-alone can do this)
+
+** Planned virtual meeting 1st week of December, could we move mid-year meeting to then.
+**one year waiver for required council attendance: PASSES unan.
+
+ -More DDIG discussion;
+
+** Council approved Rob as CPA for 5 year term
+  -treasurer will work up proposal for alternative account for cash on hand
