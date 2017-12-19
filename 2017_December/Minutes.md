@@ -1,7 +1,7 @@
 SSB EC mid-year meeting: Dec 18, 2017: virtual meeting
   -scribe: DC Adams (EVP)
 
-##Summary of Action items as discussed below
+## Summary of Action items as discussed below
 A: Ask Burk whether member management system can provide efficient web interface for submission of award applications with attachments
 B: Tom and Brian will coordinate numbers to publicize reduced handling time of journal
 C: Dean will convey EC vote on member management to full council and request vote on move to Burk & Associates
@@ -11,7 +11,7 @@ F: Casey (with Dean) will work on verbiage for Constitution to clarify how in SS
 G: Ad-hoc publishing committee will work up letter for Rob to convey to OUP for next contract. 
 
 
-###Minutes
+### Minutes
 1: Awards (Tracy)
 -needs to have budget further in advance
 -Grad awards: $50K. Mini-ARTS: not clear how many to give yet, 33 applicants, probably ~$15K
@@ -43,7 +43,7 @@ G: Ad-hoc publishing committee will work up letter for Rob to convey to OUP for 
 
 4: EVP (Dean)
 -Discussion of member management proposals
-*-EC votes and approves (unanimously) that SSB goes with B&A. 
+* -EC votes and approves (unanimously) that SSB goes with B&A. 
 -DCA will forward motion and vote to full council
 
 5: JMC (Kelly) 
@@ -68,7 +68,7 @@ G: Ad-hoc publishing committee will work up letter for Rob to convey to OUP for 
 7: Treasurer (Casey)
  -no financial documents yet (too soon for year-end).  
 * - Constitution unclear on how we execute contracts.  There is need to tighten this up (e.g., getting hotel rooms, etc.). Authority not delegated clearly on these issues. Make clear it is treasurer and others who have right to enter into contracts. 
-***Casey and Dean will work on verbiage.
+*** Casey and Dean will work on verbiage.
  
 8: Publishing
 -Received 3 bids
@@ -80,7 +80,7 @@ G: Ad-hoc publishing committee will work up letter for Rob to convey to OUP for 
 -Could temporarily hire managerial assistance to document web problems and keep pressure on publisher (removing burden on SSB volunteers currently doing this)
 
 -EC consensus to remain with publisher, but continue pressure to fix issues (or we leave after 2 year trial period)
-*DCA and ad-hoc committee will work on email for Rob to convey to publisher and our terms (like what they are doing with editorial team, but things must change on the rest of we leave). 
+* DCA and ad-hoc committee will work on email for Rob to convey to publisher and our terms (like what they are doing with editorial team, but things must change on the rest of we leave). 
 
 
 ***** Next meeting will be in-between stand-alone and ESEB.
