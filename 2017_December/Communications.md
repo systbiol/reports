@@ -1,8 +1,6 @@
-Report of Dec. 11, 2017
+# Communications report of Dec. 11, 2017
 
 ## Overall
-
-Not nearly as many Oxford issues requiring responses have come up on social media the past six months. Yay! We're still, as far as I know, the only society affected by their issues to talk about this openly. It's possible that this (plus the threat to switch publishers) has led to the improvements we've seen in the platform; other OUP partners who have been silent still have problems (i.e., SMBE's journal *Molecular Biology and Evolution* still has articles with missing formulas and odd references: [Sanderson 2002](https://academic.oup.com/mbe/article/19/1/101/1066733), for example).
 
 Our social media followers continue to grow. We continue to take actions (pointing to letters, etc.) to highlight issues affecting our members (potential tax on grad student tuition) or where our members' expertise is relevant (climate change). Many of these issues are political -- as a nonprofit, I try to make sure our stance is only about informing, no call to action (no "Call your representatives," "Donate to this PAC," etc.). It doesn't mean individual members can't call for action, of course, just that our society itself doesn't.
 
@@ -12,9 +10,11 @@ GSuites hasn't gotten much use by us yet. It costs a few dollars per user per mo
 
 For SSB elections the intention is to have active campaigning, and candidates have been told this. This is great -- having folks in the field talk about what SSB is, how it's meaningful to them, and how they want to improve / sustain it could help drive home the importance of a scientific society. I'll use our various media outputs to support this: post candidate blurbs various places, link to info, etc. (being fair to all candidates). btw, I was asked to run for something (thanks!) but declined, and I think it's a good policy for the communications director not to run in an election while they're serving -- it prevents too much opportunity for conflict of interest. Not that anyone is likely to abuse this, it's just a pain to navigate ("we're all friendly here, so let's arrange names on the ballot by first name alphabetical. Oh, wait, my name starts with a B -- is that ordering favoring me? Should we do last name? Should I post blurbs now, including mine, or wait until that one last candidate turns in his?"). We have a one year out of power rule for the council before you can run again, perhaps we should do the same for communications.
 
-It's been suggested that I form a committee to help with communications. I think it's a good idea, and I have a few candidates in mind, but I haven't done this yet. We should have at least one person in place for the Montpellier meetings -- as I mentioned in last year's Portland meeting, given the timing of the meeting and my teaching schedule, I won't be able to make it to that meeting in person (I should be able to attend all but one hour virtually). I note again that this violates the SSB rule that leadership is expected to attend the three meetings while they serve.
+Not nearly as many Oxford issues requiring responses have come up on social media the past six months. We're still, as far as I know, the only society affected by their issues to talk about this openly. It's possible that this (plus the threat to switch publishers) has led to the improvements we've seen in the platform; other OUP partners who have been silent still have problems (i.e., SMBE's journal *Molecular Biology and Evolution* still has articles with missing formulas and odd references: [Sanderson 2002](https://academic.oup.com/mbe/article/19/1/101/1066733), for example).
 
-We've been calling attention to the format of Evol2018 meetings so our members hopefully won't be caught by surprise: talks in symposia, invited talks only, abstracts due in Jan., etc. This has been in tweets, facebook, the website, and mailings. 
+It's been suggested that I form a committee to help with communications. I think it's a good idea, and I have a few candidates in mind, but I haven't done this yet. We should have at least one person in place for the Montpellier meetings -- as I mentioned in last year's Portland meeting, given the timing of the meeting and my teaching schedule, I won't be able to make it to that meeting in person (I should be able to attend all but one hour virtually).
+
+We've been calling attention to the format of Evol2018 meetings so our members hopefully won't be caught by surprise: talks in symposia, invited talks only, abstracts due in Jan., etc. This has been in tweets, facebook, the website, and mailings.
 
 ## Facebook
 
