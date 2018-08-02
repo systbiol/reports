@@ -59,3 +59,7 @@ In January 2018 Brian O'Meara stepped down at SSB Communications Director, and I
    - The SSB facebook group is a closed group, but I started accepting every request to join. No spam or ill effects thus far.
    - Membership has grown from 1,862 members in Jan. 2018 to 2,011 Aug 1 2018
    - The group is largely quiet, with minimal discussion and majority of posts being mildly self-promotional sharing of workshop and conference announcements.
+   
+## Agenda items:
+  - Opt in vs. opt out for exec @systematicbiologists.org email addresses?
+  - Maintin a broader mailing-list than just membership?
