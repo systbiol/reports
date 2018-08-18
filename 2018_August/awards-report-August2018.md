@@ -1,7 +1,7 @@
 # SSB Awards Report - August 2018
 
 ## Awards Committee
-* Awards Director: Tracy Heath (ssb.awards.director@gmail.com)
+* Awards Director: Tracy Heath (awards@systematicbiologists.org)
 * Committee member and Awards Director Elect (starting in 2019): Felipe Zapata
 * Committee member: Emily Jane McTavish
 
