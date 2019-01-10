@@ -7,6 +7,8 @@ Agenda
 
 1. Introduce New SSB Officers (Cécile Ané / Susana Magallón)
 2. Publishers Report (Julia McDonnell)
+3. [Plan S](https://www.coalition-s.org/feedback/) from OUP
+   (Julia McDonnell / Susana Magallón)
 
 ## Standing business – SSB Officer reports
 
@@ -27,5 +29,4 @@ Agenda
 1. Societies Consortium on Sexual Harassment in STEMM (Cécile Ané)
 2. [PCI](https://peercommunityin.org/who-supports-peer-community-in/):
    Peer Community in [Evolutionary Biology](https://evolbiol.peercommunityin.org/) (Cécile Ané)
-3. [Plan S](https://www.coalition-s.org/feedback/) from OUP (Susana Magallón)
-4. Stand alone meeting discussion
+3. Stand alone meeting discussion
