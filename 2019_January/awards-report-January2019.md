@@ -98,6 +98,7 @@ Awardees were selected based on their total reviewer score and every application
 
 ---
 ![Figure 1](fig1.png)
+
 Fig. 1: The number of applications funded (green) and not funded (yellow) for each type of degree and year in program.
 
 ---
