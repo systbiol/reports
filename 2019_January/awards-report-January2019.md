@@ -1,4 +1,4 @@
-# SSB Awards Report - August 2018
+# SSB Awards Report - January 2019
 
 ## Awards Committee
 * Committee member and Awards Director (as of 2019): Felipe Zapata (awards@systematicbiologists.org)
