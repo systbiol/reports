@@ -18,7 +18,7 @@ Agenda
    [report](SSB_JMC-Report_Jan2019.pdf)
 4. Communications (Emily Jane McTavish / Tracy Heath)
    [report](CommsDec_2018.md)
-5. Awards Chair (Tracy Heath / Felipe Zapata)
+5. Awards Chair (Tracy Heath / Felipe Zapata) [report](awards-report-January2019.md)
 6. Program Chair (Dave Weisrock)
    [report](SSB_program_chair_report_December2018.pdf)
 7. Editor in Chief report (Thomas Near)
