@@ -13,15 +13,15 @@ In January of 2019, Burk & Assoc. took over the management of SSB's membership. 
 
 We are currently still using GSuites to manage communication within the executive council. These are the active `systematicbiologists.org` emails:
 
-* president@systematicbiologists.org -- Cecile Ane
-* vicepresident@systematicbiologists.org -- Dean Adams
-* eic@systematicbiologists.org -- Bryan Carstens
-* awards@systematicbiologists.org -- Felipe Zapata
-* treasurer@systematicbiologists.org -- Noah Reid
-* robclaytoncpa@systematicbiologists.org -- Rob Clayton
-* programdirector@systematicbiologists.org -- Dave Weisrock
-* communications@systematicbiologists.org -- Tracy Heath
-* admin@systematicbiologists.org -- Tracy Heath
+* `president` -- Cecile Ane
+* `vicepresident` -- Dean Adams
+* `eic` -- Bryan Carstens
+* `awards` -- Felipe Zapata
+* `treasurer` -- Noah Reid
+* `robclaytoncpa` -- Rob Clayton
+* `programdirector` -- Dave Weisrock
+* `communications` -- Tracy Heath
+* `admin` -- Tracy Heath
 
 Overall the use of GSuites works well and the hand-off as new officers start their terms is easy. Rob Clayton now has access and the charges are directly charged to his offices. There have been some issues related to the names associated with the email addresses, which might be worth discussing among the EC. 
 
