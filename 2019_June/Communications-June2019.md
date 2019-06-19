@@ -58,6 +58,7 @@ Since taking on the role of communications director, I have sent out the followi
 
 * [Spring 2019](https://mailchi.mp/03ee331ffac1/ssb-spring2019-newsletter)
 * [Ballot Update 2019](https://mailchi.mp/81d13dd9d9ef/ssb-2019-ballot-update)
+* [Evolution 2019 Pre-conference Update](https://mailchi.mp/c31843613cb5/ssb-evol2019-update)
 
 ## The Story Collider
 
