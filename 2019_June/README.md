@@ -33,14 +33,20 @@ See confidential document sent via email.
 	-	Council registration coverage 
 7.	Joint Meeting Council Representative's Report (Kelly Zamudio)
 	- [Report from the Code of Conduct Committee](https://github.com/systbiol/reports/blob/master/2019_June/Code_of_Conduct_report_June2019.pdf)
-	- Possible Diversity Committee Discussion
 
 ### C. New Business/Discussions
 
-1.	Code of Ethics update (Rayna Bell)
-2.	Standalone meetings @ U Florida (Emily Sessa) 
-3.	iEvoBio and relationship to SSB (April Wright)
-5.	AIBS Proposal (Dean Adams)
-6.	New Journal Section/New Journal Proposal (Bryan Carstens, see confidential document sent via email)
-7.	EVP Request for Greater SSB Institutional Memory (Dean Adams)
+1.	New Journal Section/New Journal Proposal (Bryan Carstens, see confidential document sent via email)
+2.	Code of Ethics update (Rayna Bell)
+3.	Standalone meetings @ U Florida (Emily Sessa)
+4.	iEvoBio and relationship to SSB (April Wright)
+
+# Exit Meeting
+
+Tuesday 25, 12:30-2:30, 550A
+
+1.  NSF presentation
+2.  Diversity Committee Discussion (Kelly Zamudio)
+3.  AIBS Proposal (Dean Adams)
+4.  EVP Request for Greater SSB Institutional Memory (Dean Adams)
 
