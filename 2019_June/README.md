@@ -37,15 +37,15 @@ See confidential document sent via email.
 ### C. New Business/Discussions
 
 1.	New Journal Section/New Journal Proposal (Bryan Carstens, see confidential document sent via email)
-2.	Code of Ethics update (Rayna Bell)
 3.	Standalone meetings @ U Florida (Emily Sessa)
-4.	iEvoBio and relationship to SSB (April Wright)
 
 # Exit Meeting
 
 Tuesday 25, 12:30-2:30, 550A
 
 1.  NSF presentation
+2.	Code of Ethics update (Rayna Bell)
+4.	iEvoBio and relationship to SSB (April Wright)
 2.  Diversity Committee Discussion (Kelly Zamudio)
 3.  AIBS Proposal (Dean Adams)
 4.  EVP Request for Greater SSB Institutional Memory (Dean Adams)
