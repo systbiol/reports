@@ -47,6 +47,7 @@ Tuesday 25, 12:30-2:30, 550A
 2.	Code of Ethics update (Rayna Bell)
 4.	iEvoBio and relationship to SSB (April Wright)
 2.  Diversity Committee Discussion (Kelly Zamudio)
+   - tri-society diversity award
 3.  AIBS Proposal (Dean Adams)
 4.  EVP Request for Greater SSB Institutional Memory (Dean Adams)
-
+5. tri-society coordination of awards
