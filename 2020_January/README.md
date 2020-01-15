@@ -28,6 +28,8 @@ Agenda
 
 ## New Business / Discussions
 
-1. Invitation for an SSB representative to join the joint society (SSE+ASN) Public Policy Committee
-2. Investment strategy
-3. Awards management support proposal
+1. Invitation for an SSB representative to join the joint society (SSE+ASN) Public Policy Committee (Adam)
+2. Investment strategy (Noah)
+3. Awards management support proposal (Felipe)
+4. Tri-society code of ethics (Erika)
+5. SSB public policy award (Erika)
