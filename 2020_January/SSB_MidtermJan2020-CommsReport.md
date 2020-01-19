@@ -31,15 +31,6 @@ The SSB Student Councilors for 2019--Sam Church and Kinsey Brock--solicited nomi
 
 The Communications Director is responsible for administering the student elections. Since the ballot was assembled late in the year, we were a bit delayed getting it sent to the student members because of the holidays and the SSB conference. The elections is currently underway and will close on Jan 23, 2020. For this election, I created the ballot using my university's Qualtrics account (this enables sending anonymous ballots to individual emails). Unfortunately, this is does not seem like a sustainable approach since the future communications director may not have access to a service like Qualtrics. I will be discussing the possibility of Burk managing the student elections going forward. This will mean, however, that the nominations for the student councilor will happen around the same time as the general elections. There was some hesitancy to do this previously because that would mean that the student would be elected 7-8 months before their term started. I don't think this is a problem and it seems perfectly reasonable for the student-councilor-elect to participate in some of the activities that our student representatives organize. 
 
-## Social Media Accounts
-
-SSB maintains three social media accounts:
-
-- Twitter: [@systbiol](https://twitter.com/systbiol) (8,747 followers)
-- Facebook group: [Society of Systematic Biologists (SSB)](https://www.facebook.com/groups/SocietySystematicBiologists/) (~3,000 members)
-- Instagram: [Systematic Biologists](https://www.instagram.com/systematicbiologists/) (92 followers)
-
-This year, I hope to work on a set of guidelines for the SSB social media accounts. I think this will be helpful for future communications directors and student councilors so that they can create and curate content and followers. 
 
 ## Email Newsletters
 
@@ -55,6 +46,23 @@ I do think that these emails are relatively effective. Because MailChimp provide
 
 If any member of council has thoughts on other things to include in these semi-regular mailings, please let me know.
 
+
+## Social Media Accounts
+
+SSB maintains three social media accounts:
+
+- Twitter: [@systbiol](https://twitter.com/systbiol) (8,747 followers)
+- Facebook group: [Society of Systematic Biologists (SSB)](https://www.facebook.com/groups/SocietySystematicBiologists/) (~3,000 members)
+- Instagram: [Systematic Biologists](https://www.instagram.com/systematicbiologists/) (92 followers)
+
+This year, I hope to work on a set of guidelines for the SSB social media accounts. I think this will be helpful for future communications directors and student councilors so that they can create and curate content and followers. 
+
+## SSB Student Representative Activities
+
+The activities of the student representatives are primarily coordinated by the Program Director. However, there are some things that are quite relevant to communications and I will report them here. 
+
+- Meeting SWAG: The students have taken the lead in creating items for distributing at the conferences. These include stickers and iron-on patches. Because the patches are such a popular item at the meeting, the students will be creating a "limited-edition" SSB patch each year. 
+- Instagram Profiles: The students have created a portal for other SSB student members to provide information about their research and lives so that they can be featured in an Instagram post on the [Systematic Biologists](https://www.instagram.com/systematicbiologists/) account. So far there have been two students featured.
 
 ## Item for Discussion
 
