@@ -55,7 +55,7 @@ SSB maintains three social media accounts:
 - Facebook group: [Society of Systematic Biologists (SSB)](https://www.facebook.com/groups/SocietySystematicBiologists/) (~3,000 members)
 - Instagram: [Systematic Biologists](https://www.instagram.com/systematicbiologists/) (92 followers)
 
-This year, I hope to work on a set of guidelines for the SSB social media accounts. I think this will be helpful for future communications directors and student councilors so that they can create and curate content and followers. 
+This year, I hope to work on a set of guidelines for the SSB social media accounts. I think this will be helpful for future communications directors and student councilors so that they can create and curate content and followers. Moreover, we should have some clear policies in place because careless posting may lead to tax consequences for SSB, which is a 501(c)3 organization. 
 
 ## SSB Student Representative Activities
 
