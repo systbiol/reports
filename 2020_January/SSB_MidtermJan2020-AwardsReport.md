@@ -34,6 +34,12 @@ The AD received quotes from 3 organizations:
 
 A decision about this (either positive for one option or negative for all options) needs to be reached soon. All three companies are waiting to hear back from SSB.
 
+## [2019 Mayr Award](https://www.systbio.org/ernst-mayr-award.html)
+
+A panel of 4 judges chaired by Melissa DeBiasse evaluated the 10 talks competing for the 2019 Mayr Award. The winner for 2019 was [Sandra Álvarez-Carretero (Queen Mary University of London)](https://www.systbio.org/ernst-mayr-award.html). 
+
+For 2020, we expect the usual number of applications (about 40) and we will proceed in the same way as in previous years to choose 10 talks. 
+
 ## [2019 Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html)
 
 After the midyear meeting, the council approved to run the GSRA in the fall because we were too late with the miniARTS-2018, which happened in spring 2019 instead of fall 2018. Based on the GSRA 2018, we decided to increase the maximum award to $3000 for 2019 and hopefully fund the same number of proposals this year (about 40% in 2018)
@@ -42,4 +48,4 @@ We received 92 completed applications in November 2019.  We are still in the mid
 
 ## [2020 Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html)
 
-We hope to announce the 2020 competition late in sporing 2020 (late April).
+We hope to announce the 2020 competition late in spring 2020 (late April).
