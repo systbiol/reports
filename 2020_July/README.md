@@ -8,7 +8,7 @@
 **VIRTUAL Meeting on Zoom (please check email for link)**
 
 All committee reports may be found at: 
-[https://github.com/systbiol/reports/tree/master/2019_June](https://github.com/systbiol/reports/tree/master/2020_July)
+[https://github.com/systbiol/reports/tree/master/2020_July](https://github.com/systbiol/reports/tree/master/2020_July)
 
 ## AGENDA
 
