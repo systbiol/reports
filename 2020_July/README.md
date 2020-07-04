@@ -43,7 +43,7 @@ See confidential document sent via email.
 	* supporting “Undergraduate Diversity at Evolution”
 	* renaming Ernst Mayr award
 	* sponsored memberships
-	* SSB YouTube channel
+	* [SSB YouTube channel](https://www.youtube.com/channel/UCuZ77hKHAzaItqENqZU6QBw?view_as=subscriber)
 	* etc.
 
 
