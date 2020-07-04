@@ -20,13 +20,13 @@ See confidential document sent via email.
 
 ### B. Standing Business – SSB Officer Reports
 
-1.	Editor in Chief Report (Bryan Carstens)
-2.	Treasurer's Report (Noah Reid)
-3.	Trustees Report
-4.	[Communications Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_CouncilMtg-Jul2020_CommsReport.md) (Tracy Heath)
-5.	[Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/awards-report-July2020.pdf) (Liliana Davalos)
-6.	Program Chair's Report (Mark Holder)
-7.	[Joint Meeting Council Representative's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_JMCReport_2020.pdf) (Kelly Zamudio)
+1.	[Editor in Chief Report](https://github.com/systbiol/reports/blob/master/2020_July/EiCreport-July2020.pdf) (see email for full report including anonymous survey results) -- Bryan Carstens
+2.	Treasurer's Report (confidential) -- Noah Reid
+3.	Trustees Report (confidential) 
+4.	[Communications Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_CouncilMtg-Jul2020_CommsReport.md) -- Tracy Heath
+5.	[Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/awards-report-July2020.pdf) -- Liliana Davalos
+6.	Program Chair's Report -- Mark Holder
+7.	[Joint Meeting Council Representative's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_JMCReport_2020.pdf) -- Kelly Zamudio
 
 ### C. New Business/Discussions
 
