@@ -14,7 +14,7 @@ Please see email from SSB Communications for confidential reports.
 
 ## AGENDA
 
-### A. Publishers Report (Julia McDonnell)
+### A. Publishers Report (Jeannine Botos)
 
 See confidential document sent via email.
 
