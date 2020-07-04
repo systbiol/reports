@@ -26,14 +26,15 @@ See confidential document sent via email.
 4.	[Communications Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_CouncilMtg-Jul2020_CommsReport.md) (Tracy Heath)
 5.	[Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/awards-report-July2020.pdf) (Liliana Davalos)
 6.	Program Chair's Report (Mark Holder)
-7.	Joint Meeting Council Representative's Report (Kelly Zamudio)
+7.	[Joint Meeting Council Representative's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_JMCReport_2020.pdf) (Kelly Zamudio)
 
 ### C. New Business/Discussions
 
 1. NSF -- SBS 'virtual office hours' coming in September
 2. American Philosophical Society – The National Defense Education Act for the 21st Century
 3. Diversity Committee – vote to elevate Chair position to officer of executive council
-4. Code of Ethics
+	* [DEI Committee Mission Statement](https://github.com/systbiol/reports/blob/master/2020_July/Proposal_SSB%20Diversity%20Committee.pdf)
+4. Code of Ethics [draft](https://github.com/systbiol/reports/blob/master/2020_July/SSE_COE_FullDraft_20200610-comments.pdf)
 5. Open discussion of SSB initiatives to improve equity, inclusion, and diversity
 	* summary of member survey
 	* report from interim diversity committee
