@@ -25,7 +25,7 @@ See confidential document sent via email.
 3.	Trustees Report (confidential) 
 4.	[Communications Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_CouncilMtg-Jul2020_CommsReport.md) -- Tracy Heath
 5.	[Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/awards-report-July2020.pdf) -- Liliana Davalos
-6.	Program Chair's Report -- Mark Holder
+6.	[Program Chair's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_Prog_Dir_July_2020.pdf) -- Mark Holder
 7.	[Joint Meeting Council Representative's Report](https://github.com/systbiol/reports/blob/master/2020_July/SSB_JMCReport_2020.pdf) -- Kelly Zamudio
 
 ### C. New Business/Discussions
