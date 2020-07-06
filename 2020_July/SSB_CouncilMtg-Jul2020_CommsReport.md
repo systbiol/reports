@@ -56,7 +56,7 @@ Since January of 2020, I have sent 5 email campaigns to our members via MailChim
 
 - [January 29, 2020](https://mailchi.mp/eca46748863b/ssb-public-policy) - A letter from Erika Edwards announcing the SSB Public Policy Award. (Sent to 576 members, opened by 60% of recipients) 
 - [March 16, 2020](https://mailchi.mp/68f8d3dd673d/ssb-update-march2020) - A newsletter announcing that Evolution 2020 was canceled and some other COVID-19 related topics. (Sent to 613 members, opened by 66% of recipients)
-- [April 28, 2020](https://mailchi.mp/4893097d9050/ssb-editor-survey-apr2020) - A letter from Bryan Carstens with a survey for members requesting feedback on the new journal. (Sent to 482 members, opened by 75% of recipients)
+- [April 28, 2020](https://mailchi.mp/4893097d9050/ssb-editor-survey-apr2020) - A letter from Bryan Carstens with a survey for members requesting feedback on the new journal. (Sent to 643 members, opened by 75% of recipients)
 - [June 3, 2020](https://mailchi.mp/f610d2c4c4c4/solidarity-statement) - The email sent from SSB to speak out in solidarity with those protesting anti-Black racism and police violence. This statement was approved by council. (Sent to 648 members, opened by 55% of recipients)
 - [July 3, 2020](https://mailchi.mp/dddc6a701479/ssb-update-july2020) - A newsletter updating members about the ECR^2 virtual events, promoting the fund raiser inspired by Scott Edwards' cross-country bike ride, and announcing the GSRA. (Sent to 670 members, opened by 50% of recipients)
 
