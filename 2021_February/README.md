@@ -17,11 +17,11 @@ See confidential document sent via email.
 
 ### B. Standing Business – SSB Officer Reports
 
-1. Editor in Chief Report -- Bryan Carstens
+1. [Editor in Chief Report](https://github.com/systbiol/reports/blob/master/2021_February/EiC_Report_Jan21.pdf) -- Bryan Carstens
 2. Treasurer's Report (confidential) -- Noah Reid
 3. Trustees Report (confidential) -- Casey Dunn
-4. DEI Director's Report -- Jessica Ware
-5. Communication Director's Report -- Tracy Heath
+4. [DEI Director's Report]() -- Jessica Ware
+5. [Communication Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_CouncilMtg-Feb2021_CommsReport.md) -- Tracy Heath
 6. Awards Director's Report -- Liliana Davalos
 7. Program Director's Report -- Mark Holder
 8. Joint Meeting Council Representative's Report -- Luke Harmon
