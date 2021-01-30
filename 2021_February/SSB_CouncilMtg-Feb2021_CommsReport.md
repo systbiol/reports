@@ -22,7 +22,15 @@ Our membership is typically low at the beginning of the year. I plan on sending 
 
 We ended 2020 with 829 members. This is similar to our membership trend in 2019. It is interesting that in 2020 we did not have an in-person evolution meeting and our membership did not decrease below the totals we saw in 2019. New membership options and other opportunities will likely help to maintain our membership numbers and potentially lead to increases beyond the totals we saw in 2020.
 
- ![](assets/membership-trends.png)
+![](assets/membership-trends.png)
+  
+### Geographic Distribution
+
+The vast majority of SSB's current members are based in North America, and primarily concentrated in the United States. Some of the planned new membership options may help to reduce barriers to joining for those outside of the US. However, we should consider other opportunities and incentives to increase SSB representation internationally, particularly in Asia, Africa, and Central and South America. 
+
+![](assets/member-geo.png)
+
+![](assets/member_map.png)
 
 ### New Membership Options
 
