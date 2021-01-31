@@ -29,3 +29,7 @@ See confidential document sent via email.
 ### C. New Business/Discussions
 
 1. Code of Ethics 
+2. Past President's Report (confidential)
+	* Public Policy Award
+	* Award naming
+
