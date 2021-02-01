@@ -23,7 +23,7 @@ See confidential document sent via email.
 4. [DEI Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_DEI_Report2021.pdf) -- Jessica Ware
 5. [Communication Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_CouncilMtg-Feb2021_CommsReport.md) -- Tracy Heath
 6. Awards Director's Report -- Liliana Davalos
-7. Program Director's Report -- Mark Holder
+7. [Program Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_Prog_Dir_Feb_2021.pdf) -- Mark Holder
 8. Joint Meeting Council Representative's Report -- Luke Harmon
 
 ### C. New Business/Discussions
