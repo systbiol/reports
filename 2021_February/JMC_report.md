@@ -12,7 +12,11 @@ The main thing for SSB to keep in mind is that the window for making decisions a
 
 Evolution 2021 will be hosted by X-CD, a virtual conferencing company.
 
-We will have a 5 day meeting, June 21-25 2022. Most of the important details are available on the [meeting website](https://www.evolutionmeetings.org/). This schedule was passed by all three councils and everyone is on board.
+We will have a 5 day meeting, June 21-25 2022. Most of the important details are available on the [meeting website](https://www.evolutionmeetings.org/).
+
+This draft schedule was passed by all three councils and everyone is on board:
+
+![schedule](draft_schedule.png)
 
 ## Main features:
 
