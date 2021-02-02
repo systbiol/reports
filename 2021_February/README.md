@@ -17,8 +17,8 @@ See confidential document sent via email.
 
 ### B. Standing Business – SSB Officer Reports
 
-0. [Awards Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/awards-report-Feb2021_v2.pdf) -- Liliana Davalos
 1. [Editor in Chief Report](https://github.com/systbiol/reports/blob/master/2021_February/EiC_Report_Jan21.pdf) -- Bryan Carstens
+0. [Awards Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/awards-report-Feb2021_v2.pdf) -- Liliana Davalos
 2. Treasurer's Report (confidential) -- Noah Reid
 3. Trustees Report (confidential) -- Casey Dunn
 4. [DEI Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_DEI_Report2021.pdf) -- Jessica Ware
