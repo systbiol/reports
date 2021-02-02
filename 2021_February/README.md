@@ -22,7 +22,7 @@ See confidential document sent via email.
 3. Trustees Report (confidential) -- Casey Dunn
 4. [DEI Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_DEI_Report2021.pdf) -- Jessica Ware
 5. [Communication Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_CouncilMtg-Feb2021_CommsReport.md) -- Tracy Heath
-6. Awards Director's Report -- Liliana Davalos
+6. [Awards Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/awards-report-Feb2021_v2.pdf) -- Liliana Davalos
 7. [Program Director's Report](https://github.com/systbiol/reports/blob/master/2021_February/SSB_Prog_Dir_Feb_2021.pdf) -- Mark Holder
 8. [Joint Meeting Committee Representative's Report](https://github.com/systbiol/reports/blob/master/2021_February/JMC_report.md) -- Luke Harmon
 
