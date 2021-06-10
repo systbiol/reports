@@ -22,7 +22,7 @@ See confidential document sent via email.
 3.	Treasurer's Report (confidential) -- Noah Reid
 4.	Trustees Report (confidential)-- TBD
 5.	Communications Chair's Report -- Tracy Heath
-6.	Awards Chair's Report -- Liliana Davalos
+6.	[Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/awards-report-June2021.pdf) -- Liliana Davalos
 7.	Program Chair's Report -- Mark Holder
 8.	Joint Meeting Council Representative's Report -- Luke Harmon
 
@@ -30,6 +30,6 @@ See confidential document sent via email.
 
 ### D. New Business/Discussions
 
-1.	Code of Ethics – Rayna Bell
-2.	Selection of a new editor for SSB (August selection) – Bryan/ Laura
-3.	New procedure for vetting SSB candidates prior to soliciting materials – Laura
+1.	Selection of a new editor for SSB (August selection) – Bryan/ Laura
+2.	New procedure for vetting SSB candidates prior to soliciting materials – Laura
+3. Onboarding document for new council members – Adam
