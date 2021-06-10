@@ -1,12 +1,10 @@
-# Society of Systematic Biologists Executive Committee Meeting
-### February 2021
+# Society of Systematic Biologists General Council Meeting (2021)
 
-#### Thursday, June 17, 2021 11:00-17:00 Eastern Time
+### Thursday, June 17, 2021 11:00-17:00 Eastern Time
 
-#### VIRTUAL Meeting on Zoom (please check email for link)
+### VIRTUAL Meeting on Zoom (please check email for link)
 
-All non-confidential committee reports may be found at:
-[https://github.com/systbiol/reports/tree/master/2021_June](https://github.com/systbiol/reports/tree/master/2021_June)
+All non-confidential committee reports may be found in our [document repository](https://github.com/systbiol/reports/tree/master/2021_June).
 
 Please see email from SSB Communications for confidential reports.
 
