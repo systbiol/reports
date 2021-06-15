@@ -34,4 +34,5 @@ See confidential document sent via email.
 1. Selection of a new editor for SSB (August selection) – Bryan/ Laura
 2. New procedure for vetting SSB candidates prior to soliciting materials – Laura
 3. Onboarding document for new council members – Adam
+4. Discussion on options for hiring an administrative staff person - Erika
 
