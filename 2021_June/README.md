@@ -23,7 +23,7 @@ See confidential document sent via email.
 4.	Trustees Report (confidential)-- TBD
 5.	Communications Chair's Report -- Tracy Heath
 6.	[Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/awards-report-June2021.pdf) -- Liliana Davalos
-7.	Program Chair's Report -- Mark Holder
+7.	[Program Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/SSB_Prog_Dir_June_2021.pdf) -- Mark Holder
 8.	Joint Meeting Council Representative's Report -- Luke Harmon
 
 ### C. Break (30 min)
