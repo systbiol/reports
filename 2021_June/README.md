@@ -22,7 +22,7 @@ See confidential document sent via email.
 	* Discussion on name of the Ernst Mayr Award
 4. Treasurer's Report (confidential) -- Noah Reid
 5. Trustees Report (confidential)-- Casey Dunn
-6. Communications Chair's Report -- Tracy Heath
+6. [Communications Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/SSB_CouncilMtg-June2021_CommsReport.md) -- Tracy Heath
 7. [Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/awards-report-June2021.pdf) -- Liliana Davalos
 8. [Program Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/SSB_Prog_Dir_June_2021.pdf) -- Mark Holder
 9. Joint Meeting Council Representative's Report -- Luke Harmon
