@@ -16,7 +16,7 @@ See confidential document sent via email.
 
 ### B. Standing Business – SSB Officer Reports
 
-1. Editor in Chief Report -- Bryan Carstens
+1. [Editor in Chief Report](https://github.com/systbiol/reports/blob/master/2021_June/EIC-June2021.pdf) -- Bryan Carstens
 2. Code of Ethics - Rayna Bell
 3. Diversity, Equity, & Inclusion Chair’s Report -- Jessica Ware
 	* Discussion on name of the Ernst Mayr Award
