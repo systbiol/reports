@@ -18,8 +18,8 @@ See confidential document sent via email.
 
 1. [Editor in Chief Report](https://github.com/systbiol/reports/blob/master/2021_June/EIC-June2021.pdf) -- Bryan Carstens
 2. Code of Ethics - Rayna Bell
-3. Diversity, Equity, & Inclusion Chair’s Report -- Jessica Ware
-	* Discussion on name of the Ernst Mayr Award
+3. [Diversity, Equity, & Inclusion Chair’s Report](https://github.com/systbiol/reports/blob/master/2021_June/SSB_DEIC_Report_June2021.pdf) -- Jessica Ware
+	* Discussion on name of the Ernst Mayr Award 
 4. Treasurer's Report (confidential) -- Noah Reid
 5. Trustees Report (confidential)-- Casey Dunn
 6. [Communications Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/SSB_CouncilMtg-June2021_CommsReport.md) -- Tracy Heath
