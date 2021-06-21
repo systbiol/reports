@@ -25,7 +25,7 @@ See confidential document sent via email.
 6. [Communications Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/SSB_CouncilMtg-June2021_CommsReport.md) -- Tracy Heath
 7. [Awards Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/awards-report-June2021.pdf) -- Liliana Davalos
 8. [Program Chair's Report](https://github.com/systbiol/reports/blob/master/2021_June/SSB_Prog_Dir_June_2021.pdf) -- Mark Holder
-9. Joint Meeting Council Representative's Report -- Luke Harmon
+9. [Joint Meeting Council Representative's Report](https://github.com/systbiol/reports/blob/master/2021_June/JMC_report_June2021.pdf) -- Luke Harmon
 
 ### C. Break (30 min)
 
