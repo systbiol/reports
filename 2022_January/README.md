@@ -24,7 +24,7 @@ See confidential document sent via email.
 
 1. Treasurer -- Emily Jane McTavish
 2. Endowment and Trustees -- Casey Dunn
-3. Diversity, Equity, and Inclusion Director -- Jessica Ware
+3. [Diversity, Equity, and Inclusion Director -- Jessica Ware](https://github.com/systbiol/reports/blob/master/2022_January/SSB_DEI_December_2021_report.pdf)
 4. Joint Meeting Committee -- Luke Harmon
 5. Code of Ethics -- Rayna Bell
 6. Communications Director -- Tracy Heath/Jeremy Brown
