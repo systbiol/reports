@@ -11,10 +11,10 @@ All non-confidential committee reports may be found at: [https://github.com/syst
 
 ### A. Introduce New SSB Officers
 
-David Baum - President-Elect
-Isabel Sanmartin - Editor-In-Chief
-Jeremy Brown - Communications Director
-Emily Jane McTavish - Treasurer
+1. David Baum - President-Elect
+2. Isabel Sanmartin - Editor-In-Chief
+3. Jeremy Brown - Communications Director
+4. Emily Jane McTavish - Treasurer
 
 ### B. Publisher's Report (Ayesha Saldanha)
 
