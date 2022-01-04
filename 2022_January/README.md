@@ -28,7 +28,7 @@ See confidential document sent via email.
 4. Joint Meeting Committee -- Luke Harmon
 5. Code of Ethics -- Rayna Bell
 6. Communications Director -- Tracy Heath/Jeremy Brown
-7. Awards Director -- Liliana Dávalos
+7. [Awards Director -- Liliana Dávalos](https://github.com/systbiol/reports/blob/master/2022_January/SSB-awards-report-Jan2022.pdf)
 8. Program Director -- Mark Holder
 9. Editor-In-Chief -- Bryan Carstens
 10. Past President -- Laura Kubatko
