@@ -27,7 +27,7 @@ See confidential document sent via email.
 3. [Diversity, Equity, and Inclusion Director -- Jessica Ware](https://github.com/systbiol/reports/blob/master/2022_January/SSB_DEI_December_2021_report.pdf)
 4. Joint Meeting Committee -- Luke Harmon
 5. Code of Ethics -- Rayna Bell
-6. Communications Director -- Tracy Heath/Jeremy Brown
+6. [Communications Director](https://github.com/systbiol/reports/blob/master/2022_January/SSB_CouncilMtg-Jan2022_CommsReport.md) -- Tracy Heath/Jeremy Brown
 7. [Awards Director -- Liliana Dávalos](https://github.com/systbiol/reports/blob/master/2022_January/SSB-awards-report-Jan2022.pdf)
 8. [Program Director -- Mark Holder](https://github.com/systbiol/reports/blob/master/2022_January/SSB_Prog_Dir_Jan_2022.pdf)
 9. [Editor-In-Chief -- Bryan Carstens](https://github.com/systbiol/reports/blob/master/2022_January/EIC-January-2022.pdf)
