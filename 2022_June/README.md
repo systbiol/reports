@@ -20,12 +20,13 @@ See confidential document sent via email.
 1. Editor-in-Chief Report -- Bryan Carstens
 2. Code of Ethics Report -- Rayna Bell
 3. [Diversity, Equity, & Inclusion Director’s Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_DEI_report_June2022.pdf) -- Jessica Ware
-4. Treasurer's Report (confidential) -- Emily Jane McTavish
-5. Trustees Report (confidential) -- Casey Dunn
-6. Communications Director's Report -- Jeremy Brown
-7. [Award Director's Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_awards_report_June2022.pdf) -- Liliana Davalos
-8. Program Director's Report -- Mark Holder
-9. Joint Meeting Council Representative's Report -- Luke Harmon
+4. [Legacy Committee Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_legacy_committee_report_June2022.pdf) -- Chris Simon
+5. Treasurer's Report (confidential) -- Emily Jane McTavish
+6. Trustees Report (confidential) -- Casey Dunn
+7. Communications Director's Report -- Jeremy Brown
+8. [Award Director's Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_awards_report_June2022.pdf) -- Liliana Davalos
+9. Program Director's Report -- Mark Holder
+10. Joint Meeting Council Representative's Report -- Luke Harmon
 
 ### C. Break (30 min)
 
