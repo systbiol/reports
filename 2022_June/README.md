@@ -19,7 +19,7 @@ See confidential document sent via email.
 
 1. Editor-in-Chief Report -- Bryan Carstens
 2. Code of Ethics Report -- Rayna Bell
-3. Diversity, Equity, & Inclusion Director’s Report -- Jessica Ware
+3. [Diversity, Equity, & Inclusion Director’s Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_DEI_report_June2022.pdf) -- Jessica Ware
 4. Treasurer's Report (confidential) -- Emily Jane McTavish
 5. Trustees Report (confidential) -- Casey Dunn
 6. Communications Director's Report -- Jeremy Brown
