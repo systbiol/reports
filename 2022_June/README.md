@@ -21,9 +21,9 @@ See confidential document sent via email.
 2. Code of Ethics Report -- Rayna Bell
 3. Diversity, Equity, & Inclusion Director’s Report -- Jessica Ware
 4. Treasurer's Report (confidential) -- Emily Jane McTavish
-5. Trustees Report (confidential)-- Casey Dunn
+5. Trustees Report (confidential) -- Casey Dunn
 6. Communications Director's Report -- Jeremy Brown
-7. Award Director's Report -- Liliana Davalos
+7. [Award Director's Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_awards_report_June2022.pdf) -- Liliana Davalos
 8. Program Director's Report -- Mark Holder
 9. Joint Meeting Council Representative's Report -- Luke Harmon
 
