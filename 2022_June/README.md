@@ -25,7 +25,8 @@ See confidential document sent via email.
 6. Communications Director's Report -- Jeremy Brown
 7. [Award Director's Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_awards_report_June2022.pdf) -- Liliana Davalos
 8. Program Director's Report -- Mark Holder
-9. Editor-in-Chief Reports
+    - 2023 SSB stand-alone meeting, Mexico City -- Susana Magallón
+10. Editor-in-Chief Reports
     _Systematic Biology_ -- Isabel San Martin
     _Bulletin of the Society of Systematic Biologists_ -- Bryan Carstens
 10. [Legacy Committee Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_legacy_committee_report_June2022.pdf) -- Chris Simon
