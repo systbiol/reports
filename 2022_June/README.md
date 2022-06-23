@@ -38,4 +38,5 @@ See confidential document sent via email.
 
 ### D. New Business/Discussions
 
-TBD
+1. The Constitution needs to be changed to add the Legacy Committee to the list of committees appointed by the President in Article VII, Section 1. This will need to be added to the ballot at some point in time.
+2. Associate Management Company Bids (David Baum and Emily Jane).
