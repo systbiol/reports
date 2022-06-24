@@ -24,7 +24,7 @@ See confidential document sent via email.
 5. Code of Ethics Report -- Rayna Bell
 6. [Communications Director's Report](https://github.com/systbiol/reports/blob/master/2022_June/CommunicationsReport_June2022.md) -- Jeremy Brown
 7. [Award Director's Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_awards_report_June2022.pdf) -- Liliana Davalos
-8. Program Director's Report -- Mark Holder
+8. [Program Director's Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_program_directors_report_June2022.pdf) -- Mark Holder
     - 2023 SSB stand-alone meeting, Mexico City -- Susana Magallón
 10. Editor-in-Chief Reports
     - [_Systematic Biology_](https://github.com/systbiol/reports/blob/master/2022_June/EIC-Elect_Report_June-2022.pdf) -- Isabel San Martin
