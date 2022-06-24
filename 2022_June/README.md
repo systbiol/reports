@@ -28,7 +28,7 @@ See confidential document sent via email.
     - 2023 SSB stand-alone meeting, Mexico City -- Susana Magallón
 10. Editor-in-Chief Reports
     - [_Systematic Biology_](https://github.com/systbiol/reports/blob/master/2022_June/EIC-Elect_Report_June-2022.pdf) -- Isabel San Martin
-    - _Bulletin of the Society of Systematic Biologists_ -- Bryan Carstens
+    - [_Bulletin of the Society of Systematic Biologists_](https://github.com/systbiol/reports/blob/master/2022_June/EIC_BSSB_June2022_Report.pdf) -- Bryan Carstens
 10. [Legacy Committee Report](https://github.com/systbiol/reports/blob/master/2022_June/SSB_legacy_committee_report_June2022.pdf) -- Chris Simon
 11. Past President (Laura Kubatko) - Procedure for elections
 12. President (Brian O'Meara)
