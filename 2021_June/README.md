@@ -8,6 +8,10 @@ All non-confidential committee reports may be found in our [document repository]
 
 Please see email from SSB Communications for confidential reports.
 
+## Minutes
+
+[Council Meeting Minutes](https://github.com/systbiol/reports/blob/master/2021_June/CouncilMeetingMinutes2021.txt)
+
 ## Agenda
 
 ### A. Publisher's Report (Ayesha Saldanha)
