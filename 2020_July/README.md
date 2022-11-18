@@ -12,7 +12,7 @@ All non-confidential committee reports may be found at:
 
 Please see email from SSB Communications for confidential reports. 
 
-### Minutes
+## Minutes
 
 [Council Meeting Minutes](https://github.com/systbiol/reports/blob/master/2020_July/CouncilMeetingMinutes2020.txt)
 
