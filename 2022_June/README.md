@@ -9,6 +9,12 @@ All non-confidential committee reports may be found in our [document repository]
 
 Please see email from SSB Communications for confidential reports.
 
+## Minutes
+
+1. [Business Meeting](https://github.com/systbiol/reports/blob/master/2022_June/BusinessMeetingNotesJune2022.txt)
+2. [Council Meeting](https://github.com/systbiol/reports/blob/master/2022_June/CouncilMeetingMinutesJune2022.txt)
+3. [Exit Meeting](https://github.com/systbiol/reports/blob/master/2022_June/ExitMeetingNotesJune2022.txt)
+
 ## Agenda
 
 ### A. Publisher's Report (Ayesha Saldanha)
