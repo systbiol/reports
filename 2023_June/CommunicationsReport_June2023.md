@@ -13,6 +13,10 @@ Current Editorial Board|62|+11
 Current Emeritus Members|17|+1
 Current Total Members|815|+147
 
-Growth in member numbers for all categories! This growth is probably driven in part by new members joining for the SSB standalone meeting and the increased attendance at the Evolution meeting. Also, the editorial board was recently updated.
+Growth in member numbers for all categories! This growth is probably driven in part by new members joining for the SSB standalone meeting, the increased attendance at the Evolution meeting, and a concerted effort to remind recently lapsed members to renew. Also, the editorial board was recently updated.
 
 ## Email Newsletters
+
+So far in 2023, I have sent four email campaigns to members or recently lapsed members. Below are the URLs for each of these:
+
+- [January 29th, 2023](https://mailchi.mp/446e4c252085/nomination-recommendations) -- A call to the membership for SSB Council and Officer recommendations. This was sent in coordination with the Nominations Committee and Executive Vice President. By advertising broadly, one goal is to increase the diversity of members nominated for leadership roles.
