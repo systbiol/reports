@@ -20,3 +20,6 @@ Growth in member numbers for all categories! This growth is probably driven in p
 So far in 2023, I have sent four email campaigns to members or recently lapsed members. Below are the URLs for each of these:
 
 - [January 29th, 2023](https://mailchi.mp/446e4c252085/nomination-recommendations) -- A call to the membership for SSB Council and Officer recommendations. This was sent in coordination with the Nominations Committee and Executive Vice President. By advertising broadly, one goal is to increase the diversity of members nominated for leadership roles.
+- [February 11th, 2023](https://mailchi.mp/f8179a764526/membership-renewal) -- This email reminder was sent specifically to former members whose membership lapsed in the previous two years, inviting them to renew.
+- [April 1st, 2023](https://mailchi.mp/0b38ce27e7de/call-for-award-reviewers) -- This email invitation was sent to those members who had previous served, or expressed interest in serving, as an awards reviewer for SSB, asking them to volunteer as an awards reviewer this year.
+  
