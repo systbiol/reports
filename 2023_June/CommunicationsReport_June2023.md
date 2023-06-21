@@ -6,13 +6,11 @@ As of 20 June 2023, we have 668 total members.  Below is a summary of the curren
 
 **Membership Category**|**Number**|**Change From June 2022**
 -----|-----|-----:
-Life Members|
+Life Members|59|+2
+Current Regular Members|346|+28
+Current Student Members|331|+105
+Current Editorial Board|62|+11 (recently updated)
+Current Emeritus Members|17|+1
+Current Total Members|815|+147
 
-**Membership Category**|**Number**|**Change From June 2021**
------|-----|-----:
-Life members|57|+6
-Current Regular Members|318|-30
-Current Student Members|226|-76
-Current Editorial Board|51|no change
-Current Emeritus Members|16|+5
-Current Total Members|668|-95
+Growth in member numbers for all categories! This growth is probably driven in part by new members joining for the SSB standalone meeting and the increased attendance at the Evolution meeting.
