@@ -37,3 +37,6 @@ SSB owns four social media accounts:
 - Instagram: [Systematic Biologists](https://www.instagram.com/systematicbiologists/)
 	- This account was started by the graduate student representatives a few years ago, but has been fairly inactive recently. I believe there is interest in making this account active again, but it is unclear who knows the login information.
 
+## Website Updates
+
+I have made regular updates to the website with Society announcments. With support from the Legacy Committee, a graduate student assistant (Ben Toups) helped me make extensive updates to historical records on GitHub and the SSB website in the second half of 2022. I also recently met with members of the DEI committee, who had great ideas for ways to update the website to help make the Society more inclusive. I plan to prioritize their suggested updates in the second half of 2023.
