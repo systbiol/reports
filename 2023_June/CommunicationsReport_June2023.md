@@ -40,3 +40,20 @@ SSB owns four social media accounts:
 ## Website Updates
 
 I have made regular updates to the website with Society announcments. With support from the Legacy Committee, a graduate student assistant (Ben Toups) helped me make extensive updates to historical records on GitHub and the SSB website in the second half of 2022. I also recently met with members of the DEI committee, who had great ideas for ways to update the website to help make the Society more inclusive. I plan to prioritize their suggested updates in the second half of 2023.
+
+## Communications Committee
+
+Recently, we formed an inaugural ad-hoc Communications Committee. Current committee members include the Communications Director, Rebecca Chong, and Jhan Salazar. One immediate goal of the Committee is to provide real-time updates during Society meetings. Going forward, the Communications Committee hopes to develop a strategic plan for regular Society communications, particularly incorporating suggestions from the DEI committee.
+
+Thank you, Becky and Jhan!
+
+## Miscellaneous Activities
+
+- Coordinating with organizers of the Mexico City standalone meeting
+- Ad hoc updates to historical records
+- Maintaining updated membership lists and fixing membership errors
+- Coordinating updates and records with OUP and the Systematic Biology EIC
+- Responding to member inquiries
+- Coordinating with the Awards Director to announce deadlines, recruit reviewers, etc.
+
+
