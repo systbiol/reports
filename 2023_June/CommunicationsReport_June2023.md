@@ -24,6 +24,8 @@ So far in 2023, I have sent four email campaigns to members or recently lapsed m
 - [April 1st, 2023](https://mailchi.mp/0b38ce27e7de/call-for-award-reviewers) -- This email invitation was sent to those members who had previous served, or expressed interest in serving, as an awards reviewer for SSB, asking them to volunteer as an awards reviewer this year.
 - [April 28th, 2023](https://mailchi.mp/d6ed41c900a9/evolution-2023-other-updates) -- A comprehensive update on all Society activities for all members. This newsletter included two new features that I would like to carry forward to future newsletters: a letter from the President and an SSB member spotlight.
 
+Going forward, my goal is to plan for regular, monthly emails with updates, deadlines, and announcements from across the Society.
+
 ## Social Media Accounts
 
 SSB owns four social media accounts:
