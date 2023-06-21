@@ -2,7 +2,7 @@
 
 ## Membership Summary
 
-As of 20 June 2023, we have 668 total members.  Below is a summary of the current membership database.
+As of 20 June 2023, we have 815 total members.  Below is a summary of the current membership database.
 
 **Membership Category**|**Number**|**Change From June 2022**
 -----|-----|-----:
