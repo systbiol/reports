@@ -13,7 +13,7 @@ Current Editorial Board|62|+11
 Current Emeritus Members|17|+1
 Current Total Members|815|+147
 
-Growth in member numbers for all categories! This growth is probably driven in part by new members joining for the SSB standalone meeting, the increased attendance at the Evolution meeting, and a concerted effort to remind recently lapsed members to renew. Also, the editorial board was recently updated.
+Growth in member numbers for all categories! This growth is probably driven in part by new members joining for the SSB standalone meeting in Mexico City, the increased attendance at the 2023 Evolution meeting, and a concerted effort to remind recently lapsed members to renew. Also, the editorial board was recently updated.
 
 ## Email Newsletters
 
@@ -23,3 +23,17 @@ So far in 2023, I have sent four email campaigns to members or recently lapsed m
 - [February 11th, 2023](https://mailchi.mp/f8179a764526/membership-renewal) -- This email reminder was sent specifically to former members whose membership lapsed in the previous two years, inviting them to renew.
 - [April 1st, 2023](https://mailchi.mp/0b38ce27e7de/call-for-award-reviewers) -- This email invitation was sent to those members who had previous served, or expressed interest in serving, as an awards reviewer for SSB, asking them to volunteer as an awards reviewer this year.
 - [April 28th, 2023](https://mailchi.mp/d6ed41c900a9/evolution-2023-other-updates) -- A comprehensive update on all Society activities for all members. This newsletter included two new features that I would like to carry forward to future newsletters: a letter from the President and an SSB member spotlight.
+
+## Social Media Accounts
+
+SSB owns four social media accounts:
+
+- Twitter: [@systbiol](https://twitter.com/systbiol) (~10,600 followers)
+	- Twitter and Mastodon are the most active of our social media channels. Twitter has been used this year for regular updates, announcements, and reminders. The Diversity Director also has direct access to this account and is able to tweet announcements from the DEI Committee, although the channel has not yet been used in this capacity. Communications Committee members also now have access to this account, in particular to help provide fast-paced updates during Society meetings.
+- Mastodon: [@SystBiol@ecoevo.social](https://ecoevo.social/@SystBiol) (421 followers)
+	- The SSB Mastodon account was created in Nov. 2022, after many Society members left Twitter. Announcements made to this account mirror updates made to the Twitter account.
+- Facebook group: [Society of Systematic Biologists (SSB)](https://www.facebook.com/groups/SocietySystematicBiologists/)
+	- The SSB Facebook group was changed in 2022 to be moderated by Society leadership as an official communication channel, but is less active than our Twitter and Mastodon accounts.
+- Instagram: [Systematic Biologists](https://www.instagram.com/systematicbiologists/)
+	- This account was started by the graduate student representatives a few years ago, but has been fairly inactive recently. I believe there is interest in making this account active again, but it is unclear who knows the login information.
+
