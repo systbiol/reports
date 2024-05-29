@@ -34,7 +34,7 @@ Minutes of monthly meeting (Dec 2023)
 8. Awards Report (Heath Blackmon)
 9. [Program Report](https://github.com/systbiol/reports/blob/master/2024_January/2024_February_ProgramDirector_report.pdf) (Alison Davis Rabosky)
 10. Editor-in-Chief Report, Bulletin of SSB (Bryan Carstens) (unable to attend)
-11. Executive Vice President Report (Elizabeth Jockusch)
+11. [Executive Vice President Report](https://github.com/systbiol/reports/blob/master/2024_January/EVP_Report_2024_and_SSB_Activities.pdf) (Elizabeth Jockusch)
 12. Past President (David Baum)
 13. President (Corrie Moreau)
 
