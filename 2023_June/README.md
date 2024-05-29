@@ -37,18 +37,18 @@ All non-confidential committee reports may be found at: https://github.com/systb
 
 ### F. Standing Business – SSB Officer Reports (4 pm)
 
-1. President (David Baum)
-2. EVP report (Elizabeth Jockusch)
-3. Treasurer (Emily Jane McTavish) 
-4. Endowment and Trustees (David Hillis)
-5. Editor-in-Chief Report, Systematic Biology (Isabel Sanmartín)
-6. Editor-in-Chief Report, Bulletin of SSB (Bryan Carstens)
-7. Diversity, Equity, Inclusion (Luca Pozzi, proxy for Jessica Ware)
-8. Joint Meeting (Luke Harmon)  report
-9. Communications (Jeremy Brown)
-10. Awards Chair (Heath Blackmon)
-11. Program Chair (Alison Davis Rabosky)
-12. Past President (Brian O’Meara)
+1. President's Report (David Baum)
+2. EVP Report (Elizabeth Jockusch)
+3. Treasurer Report (Emily Jane McTavish) 
+4. Endowment and Trustees Report (David Hillis)
+5. [Editor-in-Chief Report, _Systematic Biology_](https://github.com/systbiol/reports/blob/master/2023_June/EIC-Report-June2023.pdf) (Isabel Sanmartín)
+6. [Editor-in-Chief Report, _Bulletin of SSB_](https://github.com/systbiol/reports/blob/master/2023_June/2023-Bulletin_SSB-report.pdf) (Bryan Carstens)
+7. [Diversity, Equity, and Inclusion Report](https://github.com/systbiol/reports/blob/master/2023_June/SSB%20DEI%20June%202023.pdf) (Luca Pozzi, proxy for Jessica Ware)
+8. [Joint Meeting Committee Report](https://github.com/systbiol/reports/blob/master/2023_June/JMC%20report%20for%20SSB%20-%202023.pdf) (Luke Harmon)
+9. [Communications Report](https://github.com/systbiol/reports/blob/master/2023_June/CommunicationsReport_June2023.md) (Jeremy Brown)
+10. [Awards Report](https://github.com/systbiol/reports/blob/master/2023_June/Awards-report-Jun2023.docx.pdf) (Heath Blackmon)
+11. [Program Report](https://github.com/systbiol/reports/blob/master/2023_June/2023_June_ProgramDirector_report.pdf) (Alison Davis Rabosky)
+12. Past President Report (Brian O’Meara)
 
 ### G. Old Business 
 
