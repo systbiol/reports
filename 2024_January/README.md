@@ -24,7 +24,7 @@ Minutes of monthly meeting (Dec 2023)
 
 ### D. Standing Business – SSB Officer Reports (60 minutes)
 
-1. Editor-in-Chief Report, _Systematic Biology_ (Isabel Sanmartín)
+1. [Editor-in-Chief Report, _Systematic Biology_](https://github.com/systbiol/reports/blob/master/2024_January/EIC-January-2024-Letter.pdf) (Isabel Sanmartín)
 2. Graduate Student Rep. Report (Rowan French)
 3. Treasurer (Emily Jane McTavish)
 4. Endowment and Trustees (David Hillis)
