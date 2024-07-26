@@ -52,3 +52,35 @@ SSB owns five social media accounts:
 	- This account was started by the graduate student representatives a few years ago, but has been fairly inactive recently. I believe there is interest in making this account active again, but it is unclear who knows the login information.
 - Bluesky: [systbiol.bsky.social](https://bsky.app/profile/systbiol.bsky.social)
 	- This account was established in 2024, as the Evolution meetings and many in the SSB community have moved to this platform.
+
+## Website Updates
+
+Along with The Rees Group, we have made regular updates to the website with Society announcments. Importantly, thanks to Amy's incredible efforts, we now have a membership management portal integrated with our website. Members can login to check the status of their membership and easily join or renew, without having to go to another site.
+
+One point of potential discussion going forward could be whether we want to continue with our current web hosting platform (Weebly).
+
+## GitHub Repositories and Archive
+
+As in the past, I have continued to update our repositories on GitHub that contain various historical archives, including SSB Council membership, Executive Committee positions, Constitutional amendments, meeting minutes, and office reports.
+
+## Communications Committee
+
+The Communications Committee has recently changed membership. Former committee member Rebecca Chong has transitioned to a new role as SSB Awards Director, and current SSB Council member Jennifer Tate has joined the committee. Current committee members include the Communications Director (Jeremy Brown), Jhan Salazar, and Jen Tate. We also work closely with Amy Bucaida from The Rees Group.
+
+Thank you, Becky, for your service!
+
+Going forward, the Communications Committee hopes to develop a strategic plan for regular Society communications and website updates, particularly incorporating suggestions from the DEI committee, and to write standardized communications that will be sent to members when they join the Society, renew their membership, have a lapsed membership, etc.
+
+## Miscellaneous Activities
+
+- Interacting with SSB members who have questions, concerns, and comments about their memberships or the Society generally.
+- Working with The Rees Group during this year's transition to establish new practices for communications (in progress).
+- Working with The Rees Group and OUP to restore member access to Systematic Biology articles.
+- Coordinating with other members of the Executive Committee (particularly Awards) to announce deadlines and decisions.
+- Working with leaders of the Mentorship Program.
+- Working with SSB Student Representatives.
+
+## Priorities Going Forward
+
+April Wright will be taking over as Communications Director in January 2025. In the second half of 2024, I would like to work with the Communications Committee and Amy to develop more "automated" procedures for communications to make all of our processes (emails, website, and social media) more efficient and to make communications more regular. I would also like to work with other members of the Executive Committee to establish a global, shared calendar of deadlines and announcements to improve communication planning. We have also discussed prioritizing reaching out to recently lapsed members to make sure that they renew their memberships. These changes should allow April to step into the role and be able to focus on thinking strategically going forward.
+
