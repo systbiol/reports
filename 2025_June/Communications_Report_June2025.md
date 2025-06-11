@@ -17,7 +17,7 @@ Current Total Members| 670| +39
 
 So far since I assumed control of the Communications email address in March, we have sent 7 email communications to members or recently lapsed members. Emails are now sent by The Rees Group using Constant Contact. Prior to January 2024, we sent email communications using MailChimp. We will attempt to maintain the URLs for all previous MailChimp communications for archiving purposes and are working on preservation of Constant Contact emails.
 
-- June 16th, 2025 -- Evolution cheat sheet including:
+- June 16th, 2025 -- Evolution cheat sheet including: 
 	- Reminder of major SSB events: IDEA award, Past-Presidential Address, Sponsored Symposium
 	- Reminders of talks by DEIC travel awardees and Mayr sudents
 	- Reminders of other events: DEIC headshots, business meetings.
@@ -72,17 +72,18 @@ SSB owns five social media accounts:
     - In the weeks after the SSB 2026 schedule is public, I will be highlighting a workshop or sponsored event daily. 
 	
 # Social Media and Newsletter Wheelhouse
-- For our discussion: promotion of members, activities, and events can be understood as endorsements of those activities. And failing to publicize these activities may be read as anti-endorsements. Thus, we should be fair in what we choose to publicize and have some consistent prioritization. My priorities are as follows: 
-	 	-  Events and ongoings by us:
-			- Announcements from Oxford University Press as they relate to the flagship journal and announcements from BSSB: Reshare via official channels.
-			- Announcements from our committees: Reshare via official channels. 
-			- Workshops fiscally sponsored by SSB: Reshare via official channels. 
-			- Announcements from the annual Tri-Society meeting and the breakout meetings: Reshare via official channels.
-		- Events and ongoings by actors other than SSB: 
-			- Announcements from our partner Tri-Societies (Hamilton award, webinars, etc): Reshare where relevant to our members.
-			- Announcements from national-level actors (NSF, NIH, UKRI, etc): Reshare where relevant to our members.
-			- Non-profits (AIBS, etc): Discuss with President(s) and Executive VP before reshare.
-			- Papers, workshops, talks, job postings via individual members: Do not reshare.
+- For our discussion: promotion of members, activities, and events can be understood as endorsements of those activities. And failing to publicize these activities may be read as anti-endorsements. Thus, we should be fair in what we choose to publicize and have some consistent prioritization.
+- My priorities are as follows:
+	- Events and ongoings by us:
+		- Announcements from Oxford University Press as they relate to the flagship journal and announcements from BSSB: Reshare via official channels.
+		- Announcements from our committees: Reshare via official channels. 
+		- Workshops fiscally sponsored by SSB: Reshare via official channels. 
+		- Announcements from the annual Tri-Society meeting and the breakout meetings: Reshare via official channels.
+	- Events and ongoings by actors other than SSB: 
+		- Announcements from our partner Tri-Societies (Hamilton award, webinars, etc): Reshare where relevant to our members.
+		- Announcements from national-level actors (NSF, NIH, UKRI, etc): Reshare where relevant to our members.
+		- Non-profits (AIBS, etc): Discuss with President(s) and Executive VP before reshare.
+		- Papers, workshops, talks, job postings via individual members: Do not reshare.
 
 ## Website Updates
 
