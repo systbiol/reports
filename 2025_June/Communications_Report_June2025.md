@@ -56,20 +56,20 @@ Going forward, I'll be looking to be on a more regular schedule for monthly upda
 
 SSB owns five social media accounts:
 
-- Twitter: [@systbiol](https://twitter.com/systbiol) (~10,700 followers)
+- Twitter: [@systbiol](https://twitter.com/systbiol) (~10,700 followers) 
 	- Twitter has fallen off considerably in engagement, often falling below a quarter of the engagement of Bluesky. Bluesky is now the dominant social media channel. The other Tri-Societies have left Twitter, and we have followed suit. 
-- Mastodon: [@SystBiol@ecoevo.social](https://ecoevo.social/@SystBiol) (481 followers)
-	- The SSB Mastodon account was created in Nov. 2022, after many Society members left Twitter. Announcements made to this account mirror updates made to the Bluesky account.
+- Mastodon: [@SystBiol@ecoevo.social](https://ecoevo.social/@SystBiol) (481 followers) 
+	- The SSB Mastodon account was created in Nov. 2022, after many Society members left Twitter. Announcements made to this account mirror updates made to the Bluesky account. 
 - Facebook group: [Society of Systematic Biologists (SSB)](https://www.facebook.com/groups/SocietySystematicBiologists/)
 	- The SSB Facebook group was changed in 2022 to be moderated by Society leadership as an official communication channel.
-- Instagram: [Systematic Biologists](https://www.instagram.com/systematicbiologists/)
-	- This account was started by the graduate student representatives a few years ago, but has been fairly inactive recently. I believe there is interest in making this account active again, but it is unclear who knows the login information.
-- Bluesky: [systbiol.bsky.social](https://bsky.app/profile/systbiol.bsky.social) (1.1k followers)
-	- This account was established in 2024, as the Evolution meetings and many in the SSB community have moved to this platform. This is now the main social media channel for us. 
-- My social media plan going forward is to have at least one post per week, more during high activity times.
-    - During June 9-13, for example, every day I will highlight one student who received one of our travel awards, with a link to their talk at Evolution 2025.
-    - Following the week of the July Celebration newsletter, I will be highlighting each of the various topics (Mayr Winners, IDEA award, Publisher's Award, New Council) MWF for the month after.
-    - In the weeks after the SSB 2026 schedule is public, I will be highlighting a workshop or sponsored event daily.
+- Instagram: [Systematic Biologists](https://www.instagram.com/systematicbiologists/) 
+	- This account was started by the graduate student representatives a few years ago, but has been fairly inactive recently. I believe there is interest in making this account active again, but it is unclear who knows the login information. 
+- Bluesky: [systbiol.bsky.social](https://bsky.app/profile/systbiol.bsky.social) (1.1k followers) 
+	- This account was established in 2024, as the Evolution meetings and many in the SSB community have moved to this platform. This is now the main social media channel for us.  
+- My social media plan going forward is to have at least one post per week, more during high activity times. 
+    - During June 9-13, for example, every day I will highlight one student who received one of our travel awards, with a link to their talk at Evolution 2025. 
+    - Following the week of the July Celebration newsletter, I will be highlighting each of the various topics (Mayr Winners, IDEA award, Publisher's Award, New Council) MWF for the month after. 
+    - In the weeks after the SSB 2026 schedule is public, I will be highlighting a workshop or sponsored event daily. 
 	
 # Social Media and Newsletter Wheelhouse
 	 - For our discussion: promotion of members, activities, and events can be understood as endorsements of those activities. And failing to publicize these activities may be read as anti-endorsements. Thus, we should be fair in what we choose to publicize and have some consistent prioritization. My priorities are as follows: 
