@@ -72,7 +72,7 @@ SSB owns five social media accounts:
     - In the weeks after the SSB 2026 schedule is public, I will be highlighting a workshop or sponsored event daily. 
 	
 # Social Media and Newsletter Wheelhouse
-	 - For our discussion: promotion of members, activities, and events can be understood as endorsements of those activities. And failing to publicize these activities may be read as anti-endorsements. Thus, we should be fair in what we choose to publicize and have some consistent prioritization. My priorities are as follows: 
+- For our discussion: promotion of members, activities, and events can be understood as endorsements of those activities. And failing to publicize these activities may be read as anti-endorsements. Thus, we should be fair in what we choose to publicize and have some consistent prioritization. My priorities are as follows: 
 	 	-  Events and ongoings by us:
 			- Announcements from Oxford University Press as they relate to the flagship journal and announcements from BSSB: Reshare via official channels.
 			- Announcements from our committees: Reshare via official channels. 
